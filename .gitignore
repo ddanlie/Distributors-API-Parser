@@ -1,3 +1,19 @@
+# IDE
+*.egg-info/
+
+# VS Code
+.vscode/
+
+# PyCharm / IntelliJ IDEA
+.idea/
+
+# JetBrains IDE logs
+*.iml
+
+# Other editors
+*.swp
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
