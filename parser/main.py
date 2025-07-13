@@ -1,7 +1,3 @@
-from fastapi import FastAPI
-app = FastAPI()
-
-
 #TODO: 
 # Crucial:
 # Bitrix authentication integration
@@ -18,10 +14,26 @@ app = FastAPI()
 # Code notes
 # HTML Routing: <a href="/route"> <button> Go there </button> </a>
 
+# Set up logger
+
 #Bitrix sends post request 
 #with credentials when app is opened
-@app.post("/")
-def read_root():
+
+from fastapi import FastAPI, Request
+from fastapi.responses import HTMLResponse
+from fastapi.templating import Jinja2Templates
+
+app = FastAPI()
+templates = Jinja2Templates(directory="pages/templates")
+
+@app.get("/", response_class=HTMLResponse)
+def get_read_root(request: Request):
+    return templates.TemplateResponse(
+        request=request, name="index.html", context={}
+    )
+
+@app.post("/", response_class=HTMLResponse)
+def post_read_root():
     return "<h1>Hello, World!</h1>"
 
 if __name__ == "__main__":

@@ -3,15 +3,15 @@
 
 # VS Code
 .vscode/
-
 # PyCharm / IntelliJ IDEA
 .idea/
-
 # JetBrains IDE logs
 *.iml
-
 # Other editors
 *.swp
+
+# Node
+node_modules/
 
 
 # Byte-compiled / optimized / DLL files

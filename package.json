@@ -1,0 +1,26 @@
+{
+  "name": "distributors-api-parser",
+  "version": "1.0.0",
+  "description": "- Install python 3.11+",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vite"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ddanlie/Distributors-API-Parser.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ddanlie/Distributors-API-Parser/issues"
+  },
+  "homepage": "https://github.com/ddanlie/Distributors-API-Parser#readme",
+  "devDependencies": {
+    "@tailwindcss/vite": "^4.1.11",
+    "tailwindcss": "^4.1.11",
+    "vite": "^7.0.4"
+  },
+  "dependencies": {
+    "concurrently": "^9.2.0"
+  }
+}
