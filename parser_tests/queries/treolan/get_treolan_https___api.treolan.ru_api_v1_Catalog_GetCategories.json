@@ -1,0 +1,3577 @@
+{
+    "categories": [
+        {
+            "sortIndex": 1,
+            "children": [
+                {
+                    "sortIndex": 1,
+                    "children": [
+                        {
+                            "sortIndex": 5,
+                            "children": [],
+                            "id": 193990,
+                            "guid": "63f43768-ed4b-4fda-9237-0b113f7f8d10",
+                            "name": "DELL PowerEdge R250",
+                            "parentId": "4b7a1e32-af16-4e78-85a2-f0db63222a3e"
+                        },
+                        {
+                            "sortIndex": 11,
+                            "children": [],
+                            "id": 227070,
+                            "guid": "3394bea9-e4bd-459f-be80-c26ac48ca027",
+                            "name": "DELL PowerEdge R6615",
+                            "parentId": "4b7a1e32-af16-4e78-85a2-f0db63222a3e"
+                        },
+                        {
+                            "sortIndex": 23,
+                            "children": [],
+                            "id": 226854,
+                            "guid": "0d7e573f-53e9-46cc-9404-fb8c61b89e39",
+                            "name": "DELL PowerEdge T360",
+                            "parentId": "4b7a1e32-af16-4e78-85a2-f0db63222a3e"
+                        },
+                        {
+                            "sortIndex": 25,
+                            "children": [],
+                            "id": 96858,
+                            "guid": "1cdc7f9f-3dcf-4b64-bc21-e9c463e43790",
+                            "name": "HP ProLiant DL20",
+                            "parentId": "4b7a1e32-af16-4e78-85a2-f0db63222a3e"
+                        },
+                        {
+                            "sortIndex": 32,
+                            "children": [],
+                            "id": 96859,
+                            "guid": "82124037-98f7-43dd-95d8-fc88073c6077",
+                            "name": "HP ProLiant ML30",
+                            "parentId": "4b7a1e32-af16-4e78-85a2-f0db63222a3e"
+                        },
+                        {
+                            "sortIndex": 38,
+                            "children": [],
+                            "id": 181386,
+                            "guid": "f8764090-0ec8-417d-aaaf-d9111481d796",
+                            "name": "Lenovo ThinkSystem SR655",
+                            "parentId": "4b7a1e32-af16-4e78-85a2-f0db63222a3e"
+                        },
+                        {
+                            "sortIndex": 53,
+                            "children": [],
+                            "id": 235651,
+                            "guid": "50197e73-7af7-4cf6-91d4-ab934884f342",
+                            "name": "Гравитон",
+                            "parentId": "4b7a1e32-af16-4e78-85a2-f0db63222a3e"
+                        }
+                    ],
+                    "id": 28443,
+                    "guid": "4b7a1e32-af16-4e78-85a2-f0db63222a3e",
+                    "name": "1-процессорные серверы",
+                    "parentId": "209b8fb1-84c4-48c5-b1d4-8bdba4a436fa"
+                },
+                {
+                    "sortIndex": 2,
+                    "children": [
+                        {
+                            "sortIndex": 2,
+                            "children": [],
+                            "id": 189582,
+                            "guid": "9fca7085-ab4d-40fc-b932-068b848897de",
+                            "name": "Aquarius T50",
+                            "parentId": "edd5c9cb-1e15-49f2-ae02-a6972cf76efd"
+                        },
+                        {
+                            "sortIndex": 15,
+                            "children": [],
+                            "id": 216087,
+                            "guid": "d084463c-6818-432b-afb5-406f59f9d9ec",
+                            "name": "DELL PowerEdge R660",
+                            "parentId": "edd5c9cb-1e15-49f2-ae02-a6972cf76efd"
+                        },
+                        {
+                            "sortIndex": 19,
+                            "children": [],
+                            "id": 193993,
+                            "guid": "a516cc97-c2c5-401e-9c0d-4204a0c00cde",
+                            "name": "DELL PowerEdge R750",
+                            "parentId": "edd5c9cb-1e15-49f2-ae02-a6972cf76efd"
+                        },
+                        {
+                            "sortIndex": 20,
+                            "children": [],
+                            "id": 216086,
+                            "guid": "29daad00-dbc6-473b-9567-af187d271632",
+                            "name": "DELL PowerEdge R760",
+                            "parentId": "edd5c9cb-1e15-49f2-ae02-a6972cf76efd"
+                        },
+                        {
+                            "sortIndex": 22,
+                            "children": [],
+                            "id": 227066,
+                            "guid": "99f6225e-f415-4b2d-84af-5fc850343a86",
+                            "name": "DELL PowerEdge R7625",
+                            "parentId": "edd5c9cb-1e15-49f2-ae02-a6972cf76efd"
+                        },
+                        {
+                            "sortIndex": 32,
+                            "children": [],
+                            "id": 14725,
+                            "guid": "4dd380be-6714-48ad-9ac2-7de13448819e",
+                            "name": "HP ProLiant DL360",
+                            "parentId": "edd5c9cb-1e15-49f2-ae02-a6972cf76efd"
+                        },
+                        {
+                            "sortIndex": 35,
+                            "children": [],
+                            "id": 25105,
+                            "guid": "ce95f71e-4856-4a6e-94e0-64ddc6683f6e",
+                            "name": "HP ProLiant DL380",
+                            "parentId": "edd5c9cb-1e15-49f2-ae02-a6972cf76efd"
+                        },
+                        {
+                            "sortIndex": 65,
+                            "children": [],
+                            "id": 111283,
+                            "guid": "a7022f6f-2f7b-4396-94c0-d57b0d89476f",
+                            "name": "Lenovo ThinkSystem SR630",
+                            "parentId": "edd5c9cb-1e15-49f2-ae02-a6972cf76efd"
+                        },
+                        {
+                            "sortIndex": 78,
+                            "children": [],
+                            "id": 214253,
+                            "guid": "3a1df5b4-b891-4b3d-b62c-1a1cddbf0454",
+                            "name": "OpenYard",
+                            "parentId": "edd5c9cb-1e15-49f2-ae02-a6972cf76efd"
+                        },
+                        {
+                            "sortIndex": 93,
+                            "children": [],
+                            "id": 220787,
+                            "guid": "4c1f4ef9-6450-4676-8fa7-a9dab1c7d255",
+                            "name": "Гравитон",
+                            "parentId": "edd5c9cb-1e15-49f2-ae02-a6972cf76efd"
+                        },
+                        {
+                            "sortIndex": 94,
+                            "children": [],
+                            "id": 222936,
+                            "guid": "f2b5b5b0-ae56-4f57-8aab-adbf6b192357",
+                            "name": "YADRO",
+                            "parentId": "edd5c9cb-1e15-49f2-ae02-a6972cf76efd"
+                        },
+                        {
+                            "sortIndex": 95,
+                            "children": [],
+                            "id": 234438,
+                            "guid": "895f97a6-8878-4ff7-99c7-357b92ba9e02",
+                            "name": "Fplus",
+                            "parentId": "edd5c9cb-1e15-49f2-ae02-a6972cf76efd"
+                        }
+                    ],
+                    "id": 10710,
+                    "guid": "edd5c9cb-1e15-49f2-ae02-a6972cf76efd",
+                    "name": "2-процессорные серверы",
+                    "parentId": "209b8fb1-84c4-48c5-b1d4-8bdba4a436fa"
+                },
+                {
+                    "sortIndex": 3,
+                    "children": [
+                        {
+                            "sortIndex": 8,
+                            "children": [],
+                            "id": 222004,
+                            "guid": "816792ce-0745-4b78-bfe3-f6ae6bb84cc5",
+                            "name": "НОРСИ-ТРАНС",
+                            "parentId": "ae6da4c8-5f90-4923-93f7-7130c7222c84"
+                        }
+                    ],
+                    "id": 2694,
+                    "guid": "ae6da4c8-5f90-4923-93f7-7130c7222c84",
+                    "name": "4-процессорные серверы",
+                    "parentId": "209b8fb1-84c4-48c5-b1d4-8bdba4a436fa"
+                },
+                {
+                    "sortIndex": 8,
+                    "children": [
+                        {
+                            "sortIndex": 3,
+                            "children": [],
+                            "id": 21864,
+                            "guid": "f18fb996-23b1-4d13-a85d-f3e7d0b215e4",
+                            "name": "RAID-контроллеры, карты и платы управления",
+                            "parentId": "12954125-0fdb-49b0-ae96-c2096ca9263a"
+                        },
+                        {
+                            "sortIndex": 4,
+                            "children": [],
+                            "id": 25384,
+                            "guid": "39dcd8c9-79f5-4886-9147-8fcfbd760cee",
+                            "name": "Жесткие диски",
+                            "parentId": "12954125-0fdb-49b0-ae96-c2096ca9263a"
+                        },
+                        {
+                            "sortIndex": 5,
+                            "children": [],
+                            "id": 13659,
+                            "guid": "6d64c402-0c60-45a0-913f-2a0fda9afebf",
+                            "name": "Память",
+                            "parentId": "12954125-0fdb-49b0-ae96-c2096ca9263a"
+                        },
+                        {
+                            "sortIndex": 7,
+                            "children": [],
+                            "id": 21846,
+                            "guid": "e6d219d0-059e-4cc0-b24b-d6f591200563",
+                            "name": "Процессоры",
+                            "parentId": "12954125-0fdb-49b0-ae96-c2096ca9263a"
+                        },
+                        {
+                            "sortIndex": 8,
+                            "children": [],
+                            "id": 5237,
+                            "guid": "2392235e-2e3f-42e8-af56-355c303a1bc4",
+                            "name": "Другие опции",
+                            "parentId": "12954125-0fdb-49b0-ae96-c2096ca9263a"
+                        }
+                    ],
+                    "id": 8004,
+                    "guid": "12954125-0fdb-49b0-ae96-c2096ca9263a",
+                    "name": "Опции для серверов (Brand)",
+                    "parentId": "209b8fb1-84c4-48c5-b1d4-8bdba4a436fa"
+                }
+            ],
+            "id": 23318,
+            "guid": "209b8fb1-84c4-48c5-b1d4-8bdba4a436fa",
+            "name": "Серверы (Brand) и опции",
+            "parentId": "04030ab1-678b-457d-8976-ac7297c65ce6"
+        },
+        {
+            "sortIndex": 2,
+            "children": [
+                {
+                    "sortIndex": 1,
+                    "children": [
+                        {
+                            "sortIndex": 5,
+                            "children": [],
+                            "id": 17959,
+                            "guid": "1da668a9-58bf-4e2f-91b5-891e5e8c0732",
+                            "name": "ASUS RS300",
+                            "parentId": "e17df0b2-9680-40f8-acb4-f459a2e4f2fa"
+                        },
+                        {
+                            "sortIndex": 14,
+                            "children": [],
+                            "id": 105368,
+                            "guid": "585d1e3d-2f07-4fef-a880-e3672f5c3837",
+                            "name": "Supermicro SuperServer Tower",
+                            "parentId": "e17df0b2-9680-40f8-acb4-f459a2e4f2fa"
+                        },
+                        {
+                            "sortIndex": 15,
+                            "children": [],
+                            "id": 107152,
+                            "guid": "610851cf-543d-4bae-81bc-41a0ece12520",
+                            "name": "Supermicro SuperServer Rack",
+                            "parentId": "e17df0b2-9680-40f8-acb4-f459a2e4f2fa"
+                        },
+                        {
+                            "sortIndex": 17,
+                            "children": [],
+                            "id": 226192,
+                            "guid": "1bc60d0d-9d3e-4574-b748-160e48e73af1",
+                            "name": "Gigabyte",
+                            "parentId": "e17df0b2-9680-40f8-acb4-f459a2e4f2fa"
+                        }
+                    ],
+                    "id": 105366,
+                    "guid": "e17df0b2-9680-40f8-acb4-f459a2e4f2fa",
+                    "name": "1-процессорные серверные платформы",
+                    "parentId": "e06cb121-83c4-4550-b546-ba2ece6a09f9"
+                },
+                {
+                    "sortIndex": 2,
+                    "children": [
+                        {
+                            "sortIndex": 1,
+                            "children": [],
+                            "id": 204454,
+                            "guid": "034a0119-80d8-41d0-b5fd-914f65421d6d",
+                            "name": "AIC",
+                            "parentId": "8dd46f80-a7f9-42e9-9c4f-0214f63d59e4"
+                        },
+                        {
+                            "sortIndex": 2,
+                            "children": [],
+                            "id": 208198,
+                            "guid": "4510b951-e55d-4bc9-aa1c-dcc17f46b01a",
+                            "name": "Acer Altos",
+                            "parentId": "8dd46f80-a7f9-42e9-9c4f-0214f63d59e4"
+                        },
+                        {
+                            "sortIndex": 3,
+                            "children": [],
+                            "id": 160384,
+                            "guid": "2f19ce06-9294-4069-bc4e-ed767940cba4",
+                            "name": "ASUS ESC8000",
+                            "parentId": "8dd46f80-a7f9-42e9-9c4f-0214f63d59e4"
+                        },
+                        {
+                            "sortIndex": 4,
+                            "children": [],
+                            "id": 149892,
+                            "guid": "4c48b39a-0ca8-4d0e-9976-b3eb30a9432f",
+                            "name": "ASUS ESC4000",
+                            "parentId": "8dd46f80-a7f9-42e9-9c4f-0214f63d59e4"
+                        },
+                        {
+                            "sortIndex": 10,
+                            "children": [],
+                            "id": 205358,
+                            "guid": "e5232422-973e-4f5d-ba3b-aa465ca4cee5",
+                            "name": "ASUS RS720",
+                            "parentId": "8dd46f80-a7f9-42e9-9c4f-0214f63d59e4"
+                        },
+                        {
+                            "sortIndex": 11,
+                            "children": [],
+                            "id": 105371,
+                            "guid": "f66ee087-03f0-43d7-9c7c-035c28f33ee9",
+                            "name": "ASUS RS720 (Rack 2U)",
+                            "parentId": "8dd46f80-a7f9-42e9-9c4f-0214f63d59e4"
+                        },
+                        {
+                            "sortIndex": 14,
+                            "children": [],
+                            "id": 204453,
+                            "guid": "e28c973d-3cc6-4a64-8226-03650ae1f2cb",
+                            "name": "Gigabyte",
+                            "parentId": "8dd46f80-a7f9-42e9-9c4f-0214f63d59e4"
+                        },
+                        {
+                            "sortIndex": 16,
+                            "children": [],
+                            "id": 212341,
+                            "guid": "434c1c20-0558-444b-a7f8-fb4994e72efc",
+                            "name": "OpenYard",
+                            "parentId": "8dd46f80-a7f9-42e9-9c4f-0214f63d59e4"
+                        },
+                        {
+                            "sortIndex": 18,
+                            "children": [],
+                            "id": 105372,
+                            "guid": "18bfd57f-7007-48e1-816a-b393f2a838df",
+                            "name": "Supermicro SuperServer Rack",
+                            "parentId": "8dd46f80-a7f9-42e9-9c4f-0214f63d59e4"
+                        },
+                        {
+                            "sortIndex": 19,
+                            "children": [],
+                            "id": 105375,
+                            "guid": "d419f817-a49e-49c8-ac68-9c57d59bde5f",
+                            "name": "Supermicro SuperServer Tower",
+                            "parentId": "8dd46f80-a7f9-42e9-9c4f-0214f63d59e4"
+                        },
+                        {
+                            "sortIndex": 20,
+                            "children": [],
+                            "id": 216218,
+                            "guid": "4e3b56d7-553c-4c85-aa67-a6afea373adc",
+                            "name": "Supermicro SuperWorkstation",
+                            "parentId": "8dd46f80-a7f9-42e9-9c4f-0214f63d59e4"
+                        },
+                        {
+                            "sortIndex": 21,
+                            "children": [],
+                            "id": 205338,
+                            "guid": "7fd88333-5c67-42cd-94b8-fc556c0f3c16",
+                            "name": "SNR",
+                            "parentId": "8dd46f80-a7f9-42e9-9c4f-0214f63d59e4"
+                        }
+                    ],
+                    "id": 105369,
+                    "guid": "8dd46f80-a7f9-42e9-9c4f-0214f63d59e4",
+                    "name": "2-процессорные серверные платформы",
+                    "parentId": "e06cb121-83c4-4550-b546-ba2ece6a09f9"
+                },
+                {
+                    "sortIndex": 7,
+                    "children": [
+                        {
+                            "sortIndex": 2,
+                            "children": [],
+                            "id": 105404,
+                            "guid": "465d1ca8-959d-478f-ae1d-2a66ab71615d",
+                            "name": "Блоки питания SuperMicro",
+                            "parentId": "78c16810-6a46-4111-a360-d6c8b6252665"
+                        },
+                        {
+                            "sortIndex": 3,
+                            "children": [],
+                            "id": 208674,
+                            "guid": "02ad9c62-b31a-4488-9f7b-0e45e250f11b",
+                            "name": "Блоки питания Gigabyte",
+                            "parentId": "78c16810-6a46-4111-a360-d6c8b6252665"
+                        }
+                    ],
+                    "id": 105402,
+                    "guid": "78c16810-6a46-4111-a360-d6c8b6252665",
+                    "name": "Блоки питания для серверов",
+                    "parentId": "e06cb121-83c4-4550-b546-ba2ece6a09f9"
+                },
+                {
+                    "sortIndex": 8,
+                    "children": [
+                        {
+                            "sortIndex": 1,
+                            "children": [],
+                            "id": 105406,
+                            "guid": "d6ea8f2f-97aa-4d8e-b635-8f4a8ee44216",
+                            "name": "Вентиляторы и радиаторы для серверов Supermicro",
+                            "parentId": "18a2bf8c-f476-45f0-841e-21223ed47f53"
+                        }
+                    ],
+                    "id": 105405,
+                    "guid": "18a2bf8c-f476-45f0-841e-21223ed47f53",
+                    "name": "Вентиляторы и радиаторы для серверов",
+                    "parentId": "e06cb121-83c4-4550-b546-ba2ece6a09f9"
+                },
+                {
+                    "sortIndex": 9,
+                    "children": [
+                        {
+                            "sortIndex": 4,
+                            "children": [],
+                            "id": 208903,
+                            "guid": "8f3e8441-1996-430b-b59d-6e8538e50611",
+                            "name": "Контроллеры Gigabyte",
+                            "parentId": "d483f6fa-b492-49e7-8faa-95f65c28621d"
+                        },
+                        {
+                            "sortIndex": 6,
+                            "children": [],
+                            "id": 211679,
+                            "guid": "32f93fbf-273c-4e08-adda-ea1ade3b4780",
+                            "name": "Контроллеры Qlogic",
+                            "parentId": "d483f6fa-b492-49e7-8faa-95f65c28621d"
+                        },
+                        {
+                            "sortIndex": 8,
+                            "children": [],
+                            "id": 105399,
+                            "guid": "bf4d9e83-1c15-4840-b6b8-e11a0bb6d24b",
+                            "name": "Контроллеры Broadcom (LSI, Avago)",
+                            "parentId": "d483f6fa-b492-49e7-8faa-95f65c28621d"
+                        },
+                        {
+                            "sortIndex": 9,
+                            "children": [],
+                            "id": 105400,
+                            "guid": "16d4ef22-25b6-455f-ba5c-56e979a50a6f",
+                            "name": "Контроллеры Supermicro",
+                            "parentId": "d483f6fa-b492-49e7-8faa-95f65c28621d"
+                        }
+                    ],
+                    "id": 105397,
+                    "guid": "d483f6fa-b492-49e7-8faa-95f65c28621d",
+                    "name": "Контроллеры для серверов",
+                    "parentId": "e06cb121-83c4-4550-b546-ba2ece6a09f9"
+                },
+                {
+                    "sortIndex": 10,
+                    "children": [
+                        {
+                            "sortIndex": 2,
+                            "children": [],
+                            "id": 105365,
+                            "guid": "9e831491-2707-49f8-84eb-51377772b996",
+                            "name": "Supermicro серверные корпуса",
+                            "parentId": "d4d62d78-e788-4b4e-a42a-d1fc5fbc1850"
+                        },
+                        {
+                            "sortIndex": 3,
+                            "children": [],
+                            "id": 228388,
+                            "guid": "ebd50ab7-a3fd-4406-a2d1-d6adbd1cf9dc",
+                            "name": "INWIN серверные корпуса",
+                            "parentId": "d4d62d78-e788-4b4e-a42a-d1fc5fbc1850"
+                        }
+                    ],
+                    "id": 105364,
+                    "guid": "d4d62d78-e788-4b4e-a42a-d1fc5fbc1850",
+                    "name": "Корпуса серверные",
+                    "parentId": "e06cb121-83c4-4550-b546-ba2ece6a09f9"
+                },
+                {
+                    "sortIndex": 11,
+                    "children": [
+                        {
+                            "sortIndex": 2,
+                            "children": [],
+                            "id": 105393,
+                            "guid": "b276f9bd-6541-4ee0-9e15-69c500135fe6",
+                            "name": "Kingston память для серверов",
+                            "parentId": "2383bc0d-10a0-4ee5-98c7-ffdf68387828"
+                        },
+                        {
+                            "sortIndex": 3,
+                            "children": [],
+                            "id": 105394,
+                            "guid": "a54d4c57-6837-44ae-a2d0-35739763f153",
+                            "name": "Samsung память для серверов",
+                            "parentId": "2383bc0d-10a0-4ee5-98c7-ffdf68387828"
+                        },
+                        {
+                            "sortIndex": 4,
+                            "children": [],
+                            "id": 105396,
+                            "guid": "ba2f8393-a604-49f7-a626-a32dd2214b8b",
+                            "name": "Supermicro память для серверов",
+                            "parentId": "2383bc0d-10a0-4ee5-98c7-ffdf68387828"
+                        },
+                        {
+                            "sortIndex": 5,
+                            "children": [],
+                            "id": 171036,
+                            "guid": "9edc9b5a-adbe-4cbf-ad07-ce20afd89e07",
+                            "name": "Micron память для серверов",
+                            "parentId": "2383bc0d-10a0-4ee5-98c7-ffdf68387828"
+                        },
+                        {
+                            "sortIndex": 11,
+                            "children": [],
+                            "id": 213276,
+                            "guid": "1402982e-9cfc-4092-ac10-c69a95107f91",
+                            "name": "Hynix память для серверов",
+                            "parentId": "2383bc0d-10a0-4ee5-98c7-ffdf68387828"
+                        }
+                    ],
+                    "id": 105392,
+                    "guid": "2383bc0d-10a0-4ee5-98c7-ffdf68387828",
+                    "name": "Память для серверов",
+                    "parentId": "e06cb121-83c4-4550-b546-ba2ece6a09f9"
+                },
+                {
+                    "sortIndex": 12,
+                    "children": [
+                        {
+                            "sortIndex": 1,
+                            "children": [],
+                            "id": 105408,
+                            "guid": "f4ef3c72-0e6c-4608-a274-8f906483ed4c",
+                            "name": "CPU Xeon",
+                            "parentId": "754eaf59-344a-440f-89f4-8c995a38c107"
+                        },
+                        {
+                            "sortIndex": 2,
+                            "children": [],
+                            "id": 207154,
+                            "guid": "511487ed-bd8c-49a4-ae4c-13a93ac989a1",
+                            "name": "CPU EPYC",
+                            "parentId": "754eaf59-344a-440f-89f4-8c995a38c107"
+                        }
+                    ],
+                    "id": 105407,
+                    "guid": "754eaf59-344a-440f-89f4-8c995a38c107",
+                    "name": "Процессоры",
+                    "parentId": "e06cb121-83c4-4550-b546-ba2ece6a09f9"
+                },
+                {
+                    "sortIndex": 13,
+                    "children": [
+                        {
+                            "sortIndex": 2,
+                            "children": [],
+                            "id": 161434,
+                            "guid": "e6857fe0-c39d-4d0c-b873-ed07191fa2b9",
+                            "name": "Прочие серверные опции ASUS",
+                            "parentId": "2fef3a6b-7292-47ad-abc7-75b5f631c203"
+                        },
+                        {
+                            "sortIndex": 5,
+                            "children": [],
+                            "id": 207156,
+                            "guid": "b99b8145-6ef8-4d8a-9690-b1988f396004",
+                            "name": "Прочие серверные опции Brocade",
+                            "parentId": "2fef3a6b-7292-47ad-abc7-75b5f631c203"
+                        },
+                        {
+                            "sortIndex": 6,
+                            "children": [],
+                            "id": 208666,
+                            "guid": "c8327f20-1f0a-428c-9028-9c7ae312f2d2",
+                            "name": "Прочие серверные опции Gigabyte",
+                            "parentId": "2fef3a6b-7292-47ad-abc7-75b5f631c203"
+                        },
+                        {
+                            "sortIndex": 7,
+                            "children": [],
+                            "id": 105415,
+                            "guid": "d50c7d51-fb46-429a-b685-9ba42cd2a53e",
+                            "name": "Прочие серверные опции SuperMicro",
+                            "parentId": "2fef3a6b-7292-47ad-abc7-75b5f631c203"
+                        },
+                        {
+                            "sortIndex": 8,
+                            "children": [],
+                            "id": 207157,
+                            "guid": "cff11685-086a-4fc4-94de-af4a7498a929",
+                            "name": "Прочие серверные опции SNR",
+                            "parentId": "2fef3a6b-7292-47ad-abc7-75b5f631c203"
+                        },
+                        {
+                            "sortIndex": 9,
+                            "children": [],
+                            "id": 212783,
+                            "guid": "675ea3af-33a1-4d1b-9843-17e255e06290",
+                            "name": "Прочие серверные опции AIC",
+                            "parentId": "2fef3a6b-7292-47ad-abc7-75b5f631c203"
+                        }
+                    ],
+                    "id": 105414,
+                    "guid": "2fef3a6b-7292-47ad-abc7-75b5f631c203",
+                    "name": "Прочие серверные опции",
+                    "parentId": "e06cb121-83c4-4550-b546-ba2ece6a09f9"
+                },
+                {
+                    "sortIndex": 14,
+                    "children": [
+                        {
+                            "sortIndex": 1,
+                            "children": [],
+                            "id": 105384,
+                            "guid": "7b87b50c-1275-4b56-8459-02a4818e2bc2",
+                            "name": "Салазки и корзины для дисков SuperMicro",
+                            "parentId": "4f00f3a5-293f-4874-b4ea-01b0889bb166"
+                        }
+                    ],
+                    "id": 105383,
+                    "guid": "4f00f3a5-293f-4874-b4ea-01b0889bb166",
+                    "name": "Салазки для дисков и корзины",
+                    "parentId": "e06cb121-83c4-4550-b546-ba2ece6a09f9"
+                },
+                {
+                    "sortIndex": 15,
+                    "children": [
+                        {
+                            "sortIndex": 1,
+                            "children": [],
+                            "id": 105388,
+                            "guid": "48172e0a-a9e9-4710-bcbf-611932756776",
+                            "name": "Жесткие диски серверные Seagate Enterprise",
+                            "parentId": "90ddaff3-73cb-4d26-9009-126fbbdec731"
+                        },
+                        {
+                            "sortIndex": 2,
+                            "children": [],
+                            "id": 105386,
+                            "guid": "642fb0f0-3480-40b8-a933-0a633db6f47b",
+                            "name": "Жесткие диски серверные WD Enterprise",
+                            "parentId": "90ddaff3-73cb-4d26-9009-126fbbdec731"
+                        },
+                        {
+                            "sortIndex": 3,
+                            "children": [],
+                            "id": 185222,
+                            "guid": "d27c6ea4-622d-4229-999d-51a6cd70759b",
+                            "name": "Жесткие диски серверные Toshiba Enterprise",
+                            "parentId": "90ddaff3-73cb-4d26-9009-126fbbdec731"
+                        },
+                        {
+                            "sortIndex": 5,
+                            "children": [],
+                            "id": 212349,
+                            "guid": "24ebadc0-d9d2-47f1-99a5-622e4ef09872",
+                            "name": "Жесткие диски OpenYard",
+                            "parentId": "90ddaff3-73cb-4d26-9009-126fbbdec731"
+                        }
+                    ],
+                    "id": 105385,
+                    "guid": "90ddaff3-73cb-4d26-9009-126fbbdec731",
+                    "name": "Жесткие диски Enterprise",
+                    "parentId": "e06cb121-83c4-4550-b546-ba2ece6a09f9"
+                },
+                {
+                    "sortIndex": 16,
+                    "children": [
+                        {
+                            "sortIndex": 1,
+                            "children": [],
+                            "id": 105381,
+                            "guid": "308274d0-feca-4987-8cb4-051db2ba81fb",
+                            "name": "ASUS серверные материнские платы",
+                            "parentId": "9517e004-5108-4065-9726-c98d6e01d38c"
+                        },
+                        {
+                            "sortIndex": 3,
+                            "children": [],
+                            "id": 105382,
+                            "guid": "29b30450-a8ca-4b4d-8035-5df583ac8e9f",
+                            "name": "Supermicro серверные материнские платы",
+                            "parentId": "9517e004-5108-4065-9726-c98d6e01d38c"
+                        }
+                    ],
+                    "id": 105380,
+                    "guid": "9517e004-5108-4065-9726-c98d6e01d38c",
+                    "name": "Серверные материнские платы",
+                    "parentId": "e06cb121-83c4-4550-b546-ba2ece6a09f9"
+                },
+                {
+                    "sortIndex": 17,
+                    "children": [
+                        {
+                            "sortIndex": 1,
+                            "children": [],
+                            "id": 105391,
+                            "guid": "834e57e1-c669-4034-9986-db3321dd8105",
+                            "name": "Cерверные твердотельные накопители Intel SSD Enterprise",
+                            "parentId": "5eca21fb-5b68-4ab9-9362-c721155490a5"
+                        },
+                        {
+                            "sortIndex": 2,
+                            "children": [],
+                            "id": 111212,
+                            "guid": "4abba5e6-37ee-459c-bf04-5b8167c91f6f",
+                            "name": "Cерверные твердотельные накопители для платформ Intel",
+                            "parentId": "5eca21fb-5b68-4ab9-9362-c721155490a5"
+                        },
+                        {
+                            "sortIndex": 3,
+                            "children": [],
+                            "id": 165859,
+                            "guid": "6780a7cd-7024-47a2-8810-b2380fdbc7a8",
+                            "name": "Cерверные твердотельные накопители Kingston",
+                            "parentId": "5eca21fb-5b68-4ab9-9362-c721155490a5"
+                        },
+                        {
+                            "sortIndex": 4,
+                            "children": [],
+                            "id": 188962,
+                            "guid": "6b4a11ee-be47-43f4-9455-bae553d2809e",
+                            "name": "Cерверные твердотельные накопители KIOXIA SSD",
+                            "parentId": "5eca21fb-5b68-4ab9-9362-c721155490a5"
+                        },
+                        {
+                            "sortIndex": 5,
+                            "children": [],
+                            "id": 159149,
+                            "guid": "84ab54b9-7f52-4211-9975-3dcdbca465d2",
+                            "name": "Cерверные твердотельные накопители Micron SSD",
+                            "parentId": "5eca21fb-5b68-4ab9-9362-c721155490a5"
+                        },
+                        {
+                            "sortIndex": 6,
+                            "children": [],
+                            "id": 105390,
+                            "guid": "2715a6f7-ed6f-45e3-b460-e8f629332da8",
+                            "name": "Cерверные твердотельные накопители Samsung SSD Enterprise",
+                            "parentId": "5eca21fb-5b68-4ab9-9362-c721155490a5"
+                        },
+                        {
+                            "sortIndex": 11,
+                            "children": [],
+                            "id": 208446,
+                            "guid": "9822e662-d08d-4439-8c7a-6d49d482367b",
+                            "name": "Cерверные твердотельные накопители Supermicro",
+                            "parentId": "5eca21fb-5b68-4ab9-9362-c721155490a5"
+                        },
+                        {
+                            "sortIndex": 12,
+                            "children": [],
+                            "id": 212350,
+                            "guid": "a7a60785-d86a-4368-ab54-45300fbadde8",
+                            "name": "Серверные твердотельные накопители OpenYard SSD",
+                            "parentId": "5eca21fb-5b68-4ab9-9362-c721155490a5"
+                        },
+                        {
+                            "sortIndex": 13,
+                            "children": [],
+                            "id": 225401,
+                            "guid": "650e3168-21f6-4277-a9eb-a65497f84143",
+                            "name": "Cерверные твердотельные накопители PHISON",
+                            "parentId": "5eca21fb-5b68-4ab9-9362-c721155490a5"
+                        },
+                        {
+                            "sortIndex": 15,
+                            "children": [],
+                            "id": 235646,
+                            "guid": "a33db941-67ce-4f27-8f67-bcae658a50c1",
+                            "name": "Cерверные твердотельные накопители Memblaze",
+                            "parentId": "5eca21fb-5b68-4ab9-9362-c721155490a5"
+                        }
+                    ],
+                    "id": 105389,
+                    "guid": "5eca21fb-5b68-4ab9-9362-c721155490a5",
+                    "name": "Серверные твердотельные накопители SSD",
+                    "parentId": "e06cb121-83c4-4550-b546-ba2ece6a09f9"
+                },
+                {
+                    "sortIndex": 18,
+                    "children": [
+                        {
+                            "sortIndex": 1,
+                            "children": [],
+                            "id": 105411,
+                            "guid": "6284af15-3f2f-4932-a6f9-664c006e539e",
+                            "name": "Intel сетевые адаптеры для серверов",
+                            "parentId": "99b52938-b89a-4d69-88b5-c6b567773384"
+                        }
+                    ],
+                    "id": 105409,
+                    "guid": "99b52938-b89a-4d69-88b5-c6b567773384",
+                    "name": "Сетевые адаптеры для серверов",
+                    "parentId": "e06cb121-83c4-4550-b546-ba2ece6a09f9"
+                }
+            ],
+            "id": 105363,
+            "guid": "e06cb121-83c4-4550-b546-ba2ece6a09f9",
+            "name": "Серверные платформы и опции",
+            "parentId": "04030ab1-678b-457d-8976-ac7297c65ce6"
+        },
+        {
+            "sortIndex": 3,
+            "children": [
+                {
+                    "sortIndex": 1,
+                    "children": [
+                        {
+                            "sortIndex": 1,
+                            "children": [
+                                {
+                                    "sortIndex": 1,
+                                    "children": [],
+                                    "id": 183893,
+                                    "guid": "beae3a41-0652-4d5c-bc24-66606090be06",
+                                    "name": "Aquarius",
+                                    "parentId": "bc852aab-a719-4953-a304-34bfcbfbf348"
+                                },
+                                {
+                                    "sortIndex": 2,
+                                    "children": [],
+                                    "id": 213043,
+                                    "guid": "c090af81-e633-47e8-bc29-e3dd6be83103",
+                                    "name": "Graviton",
+                                    "parentId": "bc852aab-a719-4953-a304-34bfcbfbf348"
+                                },
+                                {
+                                    "sortIndex": 22,
+                                    "children": [],
+                                    "id": 232540,
+                                    "guid": "71c89be9-4e2c-489a-8335-d46fd1feca43",
+                                    "name": "HP серия EliteDesk 600",
+                                    "parentId": "bc852aab-a719-4953-a304-34bfcbfbf348"
+                                },
+                                {
+                                    "sortIndex": 25,
+                                    "children": [],
+                                    "id": 63297,
+                                    "guid": "a74aaad3-7cdc-4d6d-81c7-0e1c04f92c53",
+                                    "name": "HP серия EliteDesk 800",
+                                    "parentId": "bc852aab-a719-4953-a304-34bfcbfbf348"
+                                },
+                                {
+                                    "sortIndex": 28,
+                                    "children": [],
+                                    "id": 63306,
+                                    "guid": "de0cafc9-6300-4e47-b4f6-c39dbcf78f82",
+                                    "name": "HP серия ProDesk 600",
+                                    "parentId": "bc852aab-a719-4953-a304-34bfcbfbf348"
+                                },
+                                {
+                                    "sortIndex": 34,
+                                    "children": [],
+                                    "id": 234661,
+                                    "guid": "639761be-af9f-436d-a617-b62c377e2245",
+                                    "name": "Kraftway",
+                                    "parentId": "bc852aab-a719-4953-a304-34bfcbfbf348"
+                                },
+                                {
+                                    "sortIndex": 35,
+                                    "children": [],
+                                    "id": 224572,
+                                    "guid": "c28dd851-45d1-4b2e-8973-504c7b968eeb",
+                                    "name": "KVADRA",
+                                    "parentId": "bc852aab-a719-4953-a304-34bfcbfbf348"
+                                },
+                                {
+                                    "sortIndex": 43,
+                                    "children": [],
+                                    "id": 18222,
+                                    "guid": "5d88be67-f19a-44c2-a1a0-b5ccc805793f",
+                                    "name": "Lenovo ThinkCentre M Series",
+                                    "parentId": "bc852aab-a719-4953-a304-34bfcbfbf348"
+                                },
+                                {
+                                    "sortIndex": 44,
+                                    "children": [],
+                                    "id": 207681,
+                                    "guid": "b4cf3fe2-42f2-456f-9ce0-4d3bb1a254e2",
+                                    "name": "Lenovo ThinkCentre Neo",
+                                    "parentId": "bc852aab-a719-4953-a304-34bfcbfbf348"
+                                },
+                                {
+                                    "sortIndex": 49,
+                                    "children": [],
+                                    "id": 206412,
+                                    "guid": "324d72ac-91a2-463e-a96d-72fe142043da",
+                                    "name": "IRBIS",
+                                    "parentId": "bc852aab-a719-4953-a304-34bfcbfbf348"
+                                },
+                                {
+                                    "sortIndex": 50,
+                                    "children": [],
+                                    "id": 206641,
+                                    "guid": "43c842a5-a062-45bb-9638-e14695dfed14",
+                                    "name": "MSI PRO",
+                                    "parentId": "bc852aab-a719-4953-a304-34bfcbfbf348"
+                                },
+                                {
+                                    "sortIndex": 52,
+                                    "children": [],
+                                    "id": 235767,
+                                    "guid": "ebb9cedd-d686-4ac6-8bef-ca8cccf75f84",
+                                    "name": "РАМЭК",
+                                    "parentId": "bc852aab-a719-4953-a304-34bfcbfbf348"
+                                }
+                            ],
+                            "id": 25331,
+                            "guid": "bc852aab-a719-4953-a304-34bfcbfbf348",
+                            "name": "Бизнес-серия",
+                            "parentId": "2b7875ae-7fa5-4cfa-ac1d-3757908bd418"
+                        },
+                        {
+                            "sortIndex": 2,
+                            "children": [
+                                {
+                                    "sortIndex": 2,
+                                    "children": [],
+                                    "id": 44420,
+                                    "guid": "653ef91b-1cbb-44d7-8f3f-9a0d3717dd73",
+                                    "name": "Dell Precision",
+                                    "parentId": "bec75513-4c63-464d-942a-4b4685bbb918"
+                                },
+                                {
+                                    "sortIndex": 16,
+                                    "children": [],
+                                    "id": 33913,
+                                    "guid": "46f74b83-1d5b-4e65-86ca-667e511ff319",
+                                    "name": "HP серия Z1",
+                                    "parentId": "bec75513-4c63-464d-942a-4b4685bbb918"
+                                },
+                                {
+                                    "sortIndex": 17,
+                                    "children": [],
+                                    "id": 152423,
+                                    "guid": "6b03d6de-80a4-4080-931d-00ebb758dda1",
+                                    "name": "HP серия Z2",
+                                    "parentId": "bec75513-4c63-464d-942a-4b4685bbb918"
+                                },
+                                {
+                                    "sortIndex": 19,
+                                    "children": [],
+                                    "id": 152425,
+                                    "guid": "b705df9d-261d-44a7-bd69-2a80da372e0c",
+                                    "name": "HP серия Z4",
+                                    "parentId": "bec75513-4c63-464d-942a-4b4685bbb918"
+                                },
+                                {
+                                    "sortIndex": 27,
+                                    "children": [],
+                                    "id": 30512,
+                                    "guid": "560a9498-7440-4766-a797-1e69c41fa16b",
+                                    "name": "Lenovo ThinkStation",
+                                    "parentId": "bec75513-4c63-464d-942a-4b4685bbb918"
+                                },
+                                {
+                                    "sortIndex": 30,
+                                    "children": [],
+                                    "id": 222006,
+                                    "guid": "c168f6c2-418c-47f1-abcd-47c6762dff57",
+                                    "name": "Norsi-Trans",
+                                    "parentId": "bec75513-4c63-464d-942a-4b4685bbb918"
+                                }
+                            ],
+                            "id": 8871,
+                            "guid": "bec75513-4c63-464d-942a-4b4685bbb918",
+                            "name": "Рабочие станции",
+                            "parentId": "2b7875ae-7fa5-4cfa-ac1d-3757908bd418"
+                        },
+                        {
+                            "sortIndex": 4,
+                            "children": [
+                                {
+                                    "sortIndex": 5,
+                                    "children": [],
+                                    "id": 235691,
+                                    "guid": "84270ede-b3de-4e27-9ab8-312fee2153ea",
+                                    "name": "HP ProDesk 2",
+                                    "parentId": "55a46a8c-a72c-4129-8a3d-cbbebd4fcd35"
+                                },
+                                {
+                                    "sortIndex": 6,
+                                    "children": [],
+                                    "id": 87297,
+                                    "guid": "074a7053-d68a-4cb5-a4e2-51d77b1d3fd7",
+                                    "name": "HP серия 260",
+                                    "parentId": "55a46a8c-a72c-4129-8a3d-cbbebd4fcd35"
+                                },
+                                {
+                                    "sortIndex": 7,
+                                    "children": [],
+                                    "id": 87298,
+                                    "guid": "7f8d3a91-b8ed-4f76-aa65-bc34926275dd",
+                                    "name": "HP серия 280",
+                                    "parentId": "55a46a8c-a72c-4129-8a3d-cbbebd4fcd35"
+                                },
+                                {
+                                    "sortIndex": 8,
+                                    "children": [],
+                                    "id": 108771,
+                                    "guid": "2c2da30e-5b7a-4b7a-8fe4-3e54236cbe3b",
+                                    "name": "HP серия 290",
+                                    "parentId": "55a46a8c-a72c-4129-8a3d-cbbebd4fcd35"
+                                },
+                                {
+                                    "sortIndex": 31,
+                                    "children": [],
+                                    "id": 70717,
+                                    "guid": "aec15906-2b7a-4f43-8994-5871ca9289ed",
+                                    "name": "HP серия 400",
+                                    "parentId": "55a46a8c-a72c-4129-8a3d-cbbebd4fcd35"
+                                },
+                                {
+                                    "sortIndex": 39,
+                                    "children": [],
+                                    "id": 235768,
+                                    "guid": "4d4c7048-6adc-4a96-bc8b-a52916f71045",
+                                    "name": "РАМЭК",
+                                    "parentId": "55a46a8c-a72c-4129-8a3d-cbbebd4fcd35"
+                                }
+                            ],
+                            "id": 3953,
+                            "guid": "55a46a8c-a72c-4129-8a3d-cbbebd4fcd35",
+                            "name": "Экономичная серия",
+                            "parentId": "2b7875ae-7fa5-4cfa-ac1d-3757908bd418"
+                        },
+                        {
+                            "sortIndex": 5,
+                            "children": [
+                                {
+                                    "sortIndex": 6,
+                                    "children": [],
+                                    "id": 204626,
+                                    "guid": "2a074c35-7fd7-469d-bd44-fcb89a2bb1c2",
+                                    "name": "IRBIS",
+                                    "parentId": "bb99cb30-3bbf-41fe-803d-2332d7424cdd"
+                                },
+                                {
+                                    "sortIndex": 7,
+                                    "children": [],
+                                    "id": 206642,
+                                    "guid": "e8d15d7b-0227-4d6b-b6e5-aca20991a5aa",
+                                    "name": "MSI Cubi",
+                                    "parentId": "bb99cb30-3bbf-41fe-803d-2332d7424cdd"
+                                },
+                                {
+                                    "sortIndex": 8,
+                                    "children": [],
+                                    "id": 214540,
+                                    "guid": "ecaad322-47a8-4d64-82da-ac680699137a",
+                                    "name": "БЕШТАУ",
+                                    "parentId": "bb99cb30-3bbf-41fe-803d-2332d7424cdd"
+                                }
+                            ],
+                            "id": 111164,
+                            "guid": "bb99cb30-3bbf-41fe-803d-2332d7424cdd",
+                            "name": "Мини ПК",
+                            "parentId": "2b7875ae-7fa5-4cfa-ac1d-3757908bd418"
+                        },
+                        {
+                            "sortIndex": 8,
+                            "children": [],
+                            "id": 38848,
+                            "guid": "5dd117c9-68de-4d07-962e-36da6ee986bd",
+                            "name": "ПК DELL OptiPlex, Vostro",
+                            "parentId": "2b7875ae-7fa5-4cfa-ac1d-3757908bd418"
+                        }
+                    ],
+                    "id": 3068,
+                    "guid": "2b7875ae-7fa5-4cfa-ac1d-3757908bd418",
+                    "name": "Настольные компьютеры",
+                    "parentId": "6fd89dbb-dafb-4745-85d5-1e6b68b2a769"
+                },
+                {
+                    "sortIndex": 2,
+                    "children": [],
+                    "id": 35267,
+                    "guid": "326a12dd-c75f-4ac0-b868-8df5910d2c4c",
+                    "name": "Моноблоки",
+                    "parentId": "6fd89dbb-dafb-4745-85d5-1e6b68b2a769"
+                },
+                {
+                    "sortIndex": 3,
+                    "children": [
+                        {
+                            "sortIndex": 2,
+                            "children": [],
+                            "id": 18958,
+                            "guid": "d143b010-3fb5-4946-8e22-71a6e5590351",
+                            "name": "HP Compaq",
+                            "parentId": "68d1f85a-f565-464b-b1a8-a639696211b9"
+                        }
+                    ],
+                    "id": 12625,
+                    "guid": "68d1f85a-f565-464b-b1a8-a639696211b9",
+                    "name": "Тонкие клиенты",
+                    "parentId": "6fd89dbb-dafb-4745-85d5-1e6b68b2a769"
+                },
+                {
+                    "sortIndex": 4,
+                    "children": [
+                        {
+                            "sortIndex": 2,
+                            "children": [],
+                            "id": 28804,
+                            "guid": "bf4b37db-814c-4adb-b5f2-84fecafea12b",
+                            "name": "Видеокарты",
+                            "parentId": "5dbca8d0-76ed-4f1a-a2af-ab0e2d17782a"
+                        },
+                        {
+                            "sortIndex": 3,
+                            "children": [],
+                            "id": 13427,
+                            "guid": "ea340521-1b8b-48a2-9b46-656ddedc74bd",
+                            "name": "Другие опции для настольных ПК",
+                            "parentId": "5dbca8d0-76ed-4f1a-a2af-ab0e2d17782a"
+                        }
+                    ],
+                    "id": 28430,
+                    "guid": "5dbca8d0-76ed-4f1a-a2af-ab0e2d17782a",
+                    "name": "Опции для настольных компьютеров",
+                    "parentId": "6fd89dbb-dafb-4745-85d5-1e6b68b2a769"
+                }
+            ],
+            "id": 11153,
+            "guid": "6fd89dbb-dafb-4745-85d5-1e6b68b2a769",
+            "name": "Компьютеры и опции",
+            "parentId": "04030ab1-678b-457d-8976-ac7297c65ce6"
+        },
+        {
+            "sortIndex": 4,
+            "children": [
+                {
+                    "sortIndex": 1,
+                    "children": [
+                        {
+                            "sortIndex": 1,
+                            "children": [],
+                            "id": 171438,
+                            "guid": "acc135e8-18ea-410a-9018-af5dd8b2ceb0",
+                            "name": "Ноутбуки",
+                            "parentId": "36330ec2-4ff2-4d54-bab9-f959164e77d0"
+                        },
+                        {
+                            "sortIndex": 2,
+                            "children": [],
+                            "id": 171441,
+                            "guid": "63ca55ee-467b-418e-a44a-7b76b49f801c",
+                            "name": "Игровые ноутбуки",
+                            "parentId": "36330ec2-4ff2-4d54-bab9-f959164e77d0"
+                        },
+                        {
+                            "sortIndex": 3,
+                            "children": [],
+                            "id": 171442,
+                            "guid": "23a8ea8e-af29-465a-946a-7fc4e91382d8",
+                            "name": "Мобильные рабочие станции",
+                            "parentId": "36330ec2-4ff2-4d54-bab9-f959164e77d0"
+                        },
+                        {
+                            "sortIndex": 4,
+                            "children": [],
+                            "id": 171440,
+                            "guid": "3f25097e-e97d-4610-ac1a-6f7f9b51e778",
+                            "name": "Трансформеры",
+                            "parentId": "36330ec2-4ff2-4d54-bab9-f959164e77d0"
+                        },
+                        {
+                            "sortIndex": 5,
+                            "children": [],
+                            "id": 171439,
+                            "guid": "a03cf7be-810d-41b5-a29a-d600a5bbad02",
+                            "name": "Ультрабуки",
+                            "parentId": "36330ec2-4ff2-4d54-bab9-f959164e77d0"
+                        }
+                    ],
+                    "id": 173670,
+                    "guid": "36330ec2-4ff2-4d54-bab9-f959164e77d0",
+                    "name": "Ноутбуки, мобильные рабочие станции",
+                    "parentId": "ae3d9026-deb6-4a6c-92ae-77ea1e954b3f"
+                },
+                {
+                    "sortIndex": 2,
+                    "children": [],
+                    "id": 20431,
+                    "guid": "6238492f-0932-4266-92c8-499d5392432f",
+                    "name": "Планшетные ПК",
+                    "parentId": "ae3d9026-deb6-4a6c-92ae-77ea1e954b3f"
+                },
+                {
+                    "sortIndex": 4,
+                    "children": [
+                        {
+                            "sortIndex": 1,
+                            "children": [],
+                            "id": 10652,
+                            "guid": "ea6b51c4-f5ed-4bc6-a891-9dc8080193cb",
+                            "name": "Аксессуары для ноутбуков",
+                            "parentId": "3e73b265-5772-4763-92cf-2c4dbc01e0dd"
+                        },
+                        {
+                            "sortIndex": 3,
+                            "children": [],
+                            "id": 4984,
+                            "guid": "0adcb54d-dd9d-40e0-861e-11542d4501ac",
+                            "name": "Зарядные устройства и батареи",
+                            "parentId": "3e73b265-5772-4763-92cf-2c4dbc01e0dd"
+                        },
+                        {
+                            "sortIndex": 6,
+                            "children": [],
+                            "id": 24628,
+                            "guid": "bbaa3534-b8b9-49d2-8b92-f9c963094054",
+                            "name": "Платы расширения ,MultiBay, Doc-station",
+                            "parentId": "3e73b265-5772-4763-92cf-2c4dbc01e0dd"
+                        },
+                        {
+                            "sortIndex": 8,
+                            "children": [],
+                            "id": 16439,
+                            "guid": "1c060a7e-ee87-441d-b87a-7f568e5061e8",
+                            "name": "Сумки",
+                            "parentId": "3e73b265-5772-4763-92cf-2c4dbc01e0dd"
+                        }
+                    ],
+                    "id": 3670,
+                    "guid": "3e73b265-5772-4763-92cf-2c4dbc01e0dd",
+                    "name": "Опции для ноутбуков",
+                    "parentId": "ae3d9026-deb6-4a6c-92ae-77ea1e954b3f"
+                }
+            ],
+            "id": 29446,
+            "guid": "ae3d9026-deb6-4a6c-92ae-77ea1e954b3f",
+            "name": "Ноутбуки и планшетные устройства",
+            "parentId": "04030ab1-678b-457d-8976-ac7297c65ce6"
+        },
+        {
+            "sortIndex": 5,
+            "children": [
+                {
+                    "sortIndex": 1,
+                    "children": [
+                        {
+                            "sortIndex": 1,
+                            "children": [],
+                            "id": 158336,
+                            "guid": "f911387e-a268-4998-8bf1-bcc593eac069",
+                            "name": "до 19\"",
+                            "parentId": "9d9827bc-67c2-46b7-8052-cba9efbd5d2f"
+                        },
+                        {
+                            "sortIndex": 2,
+                            "children": [],
+                            "id": 158337,
+                            "guid": "8e4b9a99-9506-48ca-aafd-1ede69214cd8",
+                            "name": "19\"-22\"",
+                            "parentId": "9d9827bc-67c2-46b7-8052-cba9efbd5d2f"
+                        },
+                        {
+                            "sortIndex": 3,
+                            "children": [],
+                            "id": 158339,
+                            "guid": "bce15e24-fb72-4620-82dc-73776aededbf",
+                            "name": "22\"-25\"",
+                            "parentId": "9d9827bc-67c2-46b7-8052-cba9efbd5d2f"
+                        },
+                        {
+                            "sortIndex": 4,
+                            "children": [],
+                            "id": 158340,
+                            "guid": "078d2817-ffe4-43ea-ab2b-c3ee0bb7c44a",
+                            "name": "25\"-32\"",
+                            "parentId": "9d9827bc-67c2-46b7-8052-cba9efbd5d2f"
+                        },
+                        {
+                            "sortIndex": 5,
+                            "children": [],
+                            "id": 158341,
+                            "guid": "418d903c-c174-4f97-b19c-b23e137af2dc",
+                            "name": "32\" и выше",
+                            "parentId": "9d9827bc-67c2-46b7-8052-cba9efbd5d2f"
+                        }
+                    ],
+                    "id": 27144,
+                    "guid": "9d9827bc-67c2-46b7-8052-cba9efbd5d2f",
+                    "name": "LCD Мониторы",
+                    "parentId": "d5b94e11-5d64-427a-953e-d083d8a82fc0"
+                },
+                {
+                    "sortIndex": 3,
+                    "children": [],
+                    "id": 150029,
+                    "guid": "1bbfeba9-623e-4594-b67a-3f7baa2fcc60",
+                    "name": "Крепления для мониторов и информационных панелей",
+                    "parentId": "d5b94e11-5d64-427a-953e-d083d8a82fc0"
+                },
+                {
+                    "sortIndex": 4,
+                    "children": [],
+                    "id": 150596,
+                    "guid": "3f0557f6-37cd-4f19-945f-3d7157be9956",
+                    "name": "Телевизоры",
+                    "parentId": "d5b94e11-5d64-427a-953e-d083d8a82fc0"
+                },
+                {
+                    "sortIndex": 5,
+                    "children": [],
+                    "id": 220275,
+                    "guid": "67f44be9-89d2-40dc-8c06-c2d2d7d2d5dd",
+                    "name": "Аксессуары для мониторов и телевизоров",
+                    "parentId": "d5b94e11-5d64-427a-953e-d083d8a82fc0"
+                }
+            ],
+            "id": 22355,
+            "guid": "d5b94e11-5d64-427a-953e-d083d8a82fc0",
+            "name": "Мониторы, телевизоры",
+            "parentId": "04030ab1-678b-457d-8976-ac7297c65ce6"
+        },
+        {
+            "sortIndex": 6,
+            "children": [
+                {
+                    "sortIndex": 1,
+                    "children": [
+                        {
+                            "sortIndex": 1,
+                            "children": [
+                                {
+                                    "sortIndex": 1,
+                                    "children": [],
+                                    "id": 41866,
+                                    "guid": "4e1f738a-655d-49de-91c2-68665eb92771",
+                                    "name": "Монохромные",
+                                    "parentId": "75db78f1-9e2d-40ba-843a-5af6a506aaf5"
+                                },
+                                {
+                                    "sortIndex": 2,
+                                    "children": [],
+                                    "id": 41867,
+                                    "guid": "59a4bb92-a001-4ca7-a529-a55b63adbea7",
+                                    "name": "Цветные",
+                                    "parentId": "75db78f1-9e2d-40ba-843a-5af6a506aaf5"
+                                }
+                            ],
+                            "id": 4180,
+                            "guid": "75db78f1-9e2d-40ba-843a-5af6a506aaf5",
+                            "name": "Принтеры лазерные/светодиодные/электрографические",
+                            "parentId": "3f0a7365-e6bd-4e46-80db-de0ef5579bab"
+                        },
+                        {
+                            "sortIndex": 2,
+                            "children": [
+                                {
+                                    "sortIndex": 2,
+                                    "children": [],
+                                    "id": 66432,
+                                    "guid": "2de33908-6669-40af-ae8d-f5058b2afecf",
+                                    "name": "Цветные",
+                                    "parentId": "79403319-625c-4f9c-b82b-fce1d9719ab1"
+                                }
+                            ],
+                            "id": 13009,
+                            "guid": "79403319-625c-4f9c-b82b-fce1d9719ab1",
+                            "name": "Принтеры струйные",
+                            "parentId": "3f0a7365-e6bd-4e46-80db-de0ef5579bab"
+                        }
+                    ],
+                    "id": 165536,
+                    "guid": "3f0a7365-e6bd-4e46-80db-de0ef5579bab",
+                    "name": "Принтеры",
+                    "parentId": "7eb70077-33bc-4002-a98f-64cc1de9944d"
+                },
+                {
+                    "sortIndex": 3,
+                    "children": [
+                        {
+                            "sortIndex": 1,
+                            "children": [
+                                {
+                                    "sortIndex": 1,
+                                    "children": [],
+                                    "id": 41862,
+                                    "guid": "f762e90d-b95d-48d5-8e27-b05d2ad8e402",
+                                    "name": "Монохромные",
+                                    "parentId": "f0842684-2d5b-4f6b-bd15-b573d3e78fa0"
+                                },
+                                {
+                                    "sortIndex": 2,
+                                    "children": [],
+                                    "id": 41863,
+                                    "guid": "f0432e24-09a3-41b1-9b65-d109d6363ad2",
+                                    "name": "Цветные",
+                                    "parentId": "f0842684-2d5b-4f6b-bd15-b573d3e78fa0"
+                                }
+                            ],
+                            "id": 15875,
+                            "guid": "f0842684-2d5b-4f6b-bd15-b573d3e78fa0",
+                            "name": "МФУ лазерные/светодиодные/электрографические",
+                            "parentId": "d38a0cda-5fab-4146-bc21-c5d0604ae2dd"
+                        },
+                        {
+                            "sortIndex": 2,
+                            "children": [
+                                {
+                                    "sortIndex": 2,
+                                    "children": [],
+                                    "id": 66436,
+                                    "guid": "30e25182-31bd-41e2-aabc-5edef477d34f",
+                                    "name": "Цветные",
+                                    "parentId": "9e5d0050-2864-4a1b-8b76-60958d4e5d56"
+                                }
+                            ],
+                            "id": 66435,
+                            "guid": "9e5d0050-2864-4a1b-8b76-60958d4e5d56",
+                            "name": "МФУ Струйные",
+                            "parentId": "d38a0cda-5fab-4146-bc21-c5d0604ae2dd"
+                        }
+                    ],
+                    "id": 165537,
+                    "guid": "d38a0cda-5fab-4146-bc21-c5d0604ae2dd",
+                    "name": "МФУ",
+                    "parentId": "7eb70077-33bc-4002-a98f-64cc1de9944d"
+                },
+                {
+                    "sortIndex": 4,
+                    "children": [],
+                    "id": 213591,
+                    "guid": "1a8db56c-e205-4977-9cc5-ee1dc1ad02df",
+                    "name": "Широкоформатные Принтеры/Плоттеры",
+                    "parentId": "7eb70077-33bc-4002-a98f-64cc1de9944d"
+                },
+                {
+                    "sortIndex": 5,
+                    "children": [],
+                    "id": 213590,
+                    "guid": "e9a408e3-846f-4e4a-a1fe-cdd53bad8975",
+                    "name": "Широкоформатные МФУ",
+                    "parentId": "7eb70077-33bc-4002-a98f-64cc1de9944d"
+                },
+                {
+                    "sortIndex": 6,
+                    "children": [
+                        {
+                            "sortIndex": 1,
+                            "children": [],
+                            "id": 213586,
+                            "guid": "a01919e6-dd1d-470a-bd0d-0f6d5d9dd62d",
+                            "name": "Широкоформатные",
+                            "parentId": "a5017ef8-385e-4e5c-b9dd-03ece305c61b"
+                        },
+                        {
+                            "sortIndex": 2,
+                            "children": [],
+                            "id": 213587,
+                            "guid": "ca59e153-33ff-4c53-baf7-180e92eafaad",
+                            "name": "Протяжные",
+                            "parentId": "a5017ef8-385e-4e5c-b9dd-03ece305c61b"
+                        },
+                        {
+                            "sortIndex": 3,
+                            "children": [],
+                            "id": 213588,
+                            "guid": "1ac1279b-466a-4277-930b-408bda1d8e3c",
+                            "name": "Планшетные",
+                            "parentId": "a5017ef8-385e-4e5c-b9dd-03ece305c61b"
+                        },
+                        {
+                            "sortIndex": 4,
+                            "children": [],
+                            "id": 213589,
+                            "guid": "10c159dc-82fe-40c8-9fff-2ecc7c8bb6b3",
+                            "name": "Фотоаппаратные",
+                            "parentId": "a5017ef8-385e-4e5c-b9dd-03ece305c61b"
+                        }
+                    ],
+                    "id": 3779,
+                    "guid": "a5017ef8-385e-4e5c-b9dd-03ece305c61b",
+                    "name": "Сканеры ",
+                    "parentId": "7eb70077-33bc-4002-a98f-64cc1de9944d"
+                },
+                {
+                    "sortIndex": 7,
+                    "children": [],
+                    "id": 4123,
+                    "guid": "ed3cc6fb-e882-43a5-9573-a704ec6aac31",
+                    "name": "Опции к принтерам, сканерам, МФУ",
+                    "parentId": "7eb70077-33bc-4002-a98f-64cc1de9944d"
+                }
+            ],
+            "id": 25939,
+            "guid": "7eb70077-33bc-4002-a98f-64cc1de9944d",
+            "name": "Принтеры, сканеры, МФУ",
+            "parentId": "04030ab1-678b-457d-8976-ac7297c65ce6"
+        },
+        {
+            "sortIndex": 7,
+            "children": [
+                {
+                    "sortIndex": 1,
+                    "children": [],
+                    "id": 184597,
+                    "guid": "2dd423dc-330a-44b2-8ed1-8bb3265468a2",
+                    "name": "Офисные пакеты",
+                    "parentId": "0124278c-e8b6-404c-8385-8ed095644188"
+                },
+                {
+                    "sortIndex": 2,
+                    "children": [],
+                    "id": 184598,
+                    "guid": "e1a837d3-e01f-452c-8fb2-4e22b8264552",
+                    "name": "Клиентские операционные системы",
+                    "parentId": "0124278c-e8b6-404c-8385-8ed095644188"
+                },
+                {
+                    "sortIndex": 3,
+                    "children": [],
+                    "id": 184599,
+                    "guid": "2e412326-82d3-4ea0-a95f-76a996b607e6",
+                    "name": "Серверные операционные системы",
+                    "parentId": "0124278c-e8b6-404c-8385-8ed095644188"
+                },
+                {
+                    "sortIndex": 4,
+                    "children": [],
+                    "id": 184600,
+                    "guid": "275f05df-8dc2-4430-95a8-782ac4979b7c",
+                    "name": "SQL сервер",
+                    "parentId": "0124278c-e8b6-404c-8385-8ed095644188"
+                },
+                {
+                    "sortIndex": 5,
+                    "children": [
+                        {
+                            "sortIndex": 1,
+                            "children": [
+                                {
+                                    "sortIndex": 1,
+                                    "children": [
+                                        {
+                                            "sortIndex": 1,
+                                            "children": [],
+                                            "id": 207627,
+                                            "guid": "b2a7863a-7fdc-4aba-96d9-61c79709ce24",
+                                            "name": "Переводческое программное обеспечение для Windows",
+                                            "parentId": "08e26eaf-d3e8-4532-a568-fc4f76a6611f"
+                                        },
+                                        {
+                                            "sortIndex": 2,
+                                            "children": [],
+                                            "id": 207628,
+                                            "guid": "6bfa3161-baee-4ce3-b051-40e963ece176",
+                                            "name": "Переводческое программное обеспечение для Linux",
+                                            "parentId": "08e26eaf-d3e8-4532-a568-fc4f76a6611f"
+                                        }
+                                    ],
+                                    "id": 207626,
+                                    "guid": "08e26eaf-d3e8-4532-a568-fc4f76a6611f",
+                                    "name": "PROMT",
+                                    "parentId": "a73250a3-2434-4cf4-8bc0-fbee10c58a49"
+                                }
+                            ],
+                            "id": 207624,
+                            "guid": "a73250a3-2434-4cf4-8bc0-fbee10c58a49",
+                            "name": "Средства автоматизированного перевода",
+                            "parentId": "76812adb-1f8d-4c7b-8090-8ad4e6c53928"
+                        }
+                    ],
+                    "id": 184601,
+                    "guid": "76812adb-1f8d-4c7b-8090-8ad4e6c53928",
+                    "name": "Дополнительные офисные продукты",
+                    "parentId": "0124278c-e8b6-404c-8385-8ed095644188"
+                },
+                {
+                    "sortIndex": 6,
+                    "children": [],
+                    "id": 184602,
+                    "guid": "d1d275e8-4263-4759-9e94-0e24d5533e37",
+                    "name": "Антивирусные программы",
+                    "parentId": "0124278c-e8b6-404c-8385-8ed095644188"
+                },
+                {
+                    "sortIndex": 7,
+                    "children": [],
+                    "id": 188849,
+                    "guid": "dea3e18a-2a04-4cef-9978-1f9636536a80",
+                    "name": "Прочее",
+                    "parentId": "0124278c-e8b6-404c-8385-8ed095644188"
+                },
+                {
+                    "sortIndex": 8,
+                    "children": [
+                        {
+                            "sortIndex": 1,
+                            "children": [
+                                {
+                                    "sortIndex": 1,
+                                    "children": [],
+                                    "id": 197237,
+                                    "guid": "d3e0bcd6-2831-4875-af03-7534760fc234",
+                                    "name": "Базовые продукты",
+                                    "parentId": "8311ffe2-c64c-4432-a86c-e65d4144573d"
+                                },
+                                {
+                                    "sortIndex": 2,
+                                    "children": [],
+                                    "id": 197238,
+                                    "guid": "35d54d4b-fa75-4401-8c52-3de7add6b98f",
+                                    "name": "Комплекты КОМПАС",
+                                    "parentId": "8311ffe2-c64c-4432-a86c-e65d4144573d"
+                                },
+                                {
+                                    "sortIndex": 3,
+                                    "children": [],
+                                    "id": 197239,
+                                    "guid": "9f04ba76-bbdd-4b68-ba40-bcf6ca5e5c74",
+                                    "name": "Приложения для КОМПАС",
+                                    "parentId": "8311ffe2-c64c-4432-a86c-e65d4144573d"
+                                },
+                                {
+                                    "sortIndex": 4,
+                                    "children": [],
+                                    "id": 197240,
+                                    "guid": "1bcf974c-46b5-4462-b4bc-a1882cfa0321",
+                                    "name": "КОМПАС. Обновления",
+                                    "parentId": "8311ffe2-c64c-4432-a86c-e65d4144573d"
+                                },
+                                {
+                                    "sortIndex": 5,
+                                    "children": [],
+                                    "id": 197241,
+                                    "guid": "1fa40a99-1a55-4569-bf37-d83081c7ba22",
+                                    "name": "Учебные комплекты АСКОН",
+                                    "parentId": "8311ffe2-c64c-4432-a86c-e65d4144573d"
+                                },
+                                {
+                                    "sortIndex": 6,
+                                    "children": [],
+                                    "id": 212558,
+                                    "guid": "f23bb214-8ea1-4250-bdee-4759b1eebcd4",
+                                    "name": "Дополнительное комплексное ПО",
+                                    "parentId": "8311ffe2-c64c-4432-a86c-e65d4144573d"
+                                }
+                            ],
+                            "id": 197236,
+                            "guid": "8311ffe2-c64c-4432-a86c-e65d4144573d",
+                            "name": "АСКОН-права",
+                            "parentId": "02132958-d876-4796-b1e7-650306221a63"
+                        },
+                        {
+                            "sortIndex": 2,
+                            "children": [
+                                {
+                                    "sortIndex": 1,
+                                    "children": [],
+                                    "id": 203708,
+                                    "guid": "17047845-2ea9-41dc-bfa1-1e4f044c6817",
+                                    "name": "Платформа nanoCAD",
+                                    "parentId": "10ab1cb4-7c53-4114-9d56-4e9dfc94fe4f"
+                                },
+                                {
+                                    "sortIndex": 17,
+                                    "children": [],
+                                    "id": 203724,
+                                    "guid": "a63532ad-3601-48be-a631-af1b40c7980f",
+                                    "name": "NSR NormaCS Specification",
+                                    "parentId": "10ab1cb4-7c53-4114-9d56-4e9dfc94fe4f"
+                                }
+                            ],
+                            "id": 203707,
+                            "guid": "10ab1cb4-7c53-4114-9d56-4e9dfc94fe4f",
+                            "name": "Нанософт Разработка",
+                            "parentId": "02132958-d876-4796-b1e7-650306221a63"
+                        },
+                        {
+                            "sortIndex": 3,
+                            "children": [
+                                {
+                                    "sortIndex": 1,
+                                    "children": [],
+                                    "id": 210600,
+                                    "guid": "48fbf43e-8f6e-4fc2-ad25-2f4983e33c2a",
+                                    "name": "Базовые продукты Renga",
+                                    "parentId": "210261fa-ecff-4f50-83c0-02a7048c5153"
+                                }
+                            ],
+                            "id": 210599,
+                            "guid": "210261fa-ecff-4f50-83c0-02a7048c5153",
+                            "name": "Renga-права",
+                            "parentId": "02132958-d876-4796-b1e7-650306221a63"
+                        },
+                        {
+                            "sortIndex": 5,
+                            "children": [],
+                            "id": 224460,
+                            "guid": "036a9745-0028-4e0e-b5ee-08a6cb8387f0",
+                            "name": "SCAD Office права",
+                            "parentId": "02132958-d876-4796-b1e7-650306221a63"
+                        },
+                        {
+                            "sortIndex": 6,
+                            "children": [],
+                            "id": 224461,
+                            "guid": "7079119b-2087-4976-a2db-78122d2e9c6b",
+                            "name": "Лира-САПР-права НДС",
+                            "parentId": "02132958-d876-4796-b1e7-650306221a63"
+                        }
+                    ],
+                    "id": 197169,
+                    "guid": "02132958-d876-4796-b1e7-650306221a63",
+                    "name": "САПР",
+                    "parentId": "0124278c-e8b6-404c-8385-8ed095644188"
+                }
+            ],
+            "id": 15510,
+            "guid": "0124278c-e8b6-404c-8385-8ed095644188",
+            "name": "Программное обеспечение",
+            "parentId": "04030ab1-678b-457d-8976-ac7297c65ce6"
+        },
+        {
+            "sortIndex": 8,
+            "children": [
+                {
+                    "sortIndex": 2,
+                    "children": [],
+                    "id": 163,
+                    "guid": "d0d6145e-3275-442b-bed2-19d39c8e4e7e",
+                    "name": "БП для корпусов",
+                    "parentId": "f4300ee6-a3d2-4799-8cbb-a077c89ff3db"
+                },
+                {
+                    "sortIndex": 3,
+                    "children": [
+                        {
+                            "sortIndex": 1,
+                            "children": [],
+                            "id": 18792,
+                            "guid": "c58bff3d-226f-4910-9cba-58ccd59afb4b",
+                            "name": "Видеокарты на чипсетах ATI",
+                            "parentId": "fee65607-de65-4fb1-8fe0-3fe572f12894"
+                        },
+                        {
+                            "sortIndex": 2,
+                            "children": [],
+                            "id": 3538,
+                            "guid": "fec9614a-cda7-4fc4-93a1-a7c38a5ef3cd",
+                            "name": "Видеокарты на чипсетах NVIDIA",
+                            "parentId": "fee65607-de65-4fb1-8fe0-3fe572f12894"
+                        }
+                    ],
+                    "id": 11299,
+                    "guid": "fee65607-de65-4fb1-8fe0-3fe572f12894",
+                    "name": "Видеокарты",
+                    "parentId": "f4300ee6-a3d2-4799-8cbb-a077c89ff3db"
+                },
+                {
+                    "sortIndex": 4,
+                    "children": [
+                        {
+                            "sortIndex": 2,
+                            "children": [],
+                            "id": 105435,
+                            "guid": "f022fd2f-20eb-4332-b76f-5d1e7dc6cef8",
+                            "name": "PNY NVIDIA Pro Graphics",
+                            "parentId": "db3c15d5-01b4-4db4-912c-03bf7e88260f"
+                        },
+                        {
+                            "sortIndex": 4,
+                            "children": [],
+                            "id": 222255,
+                            "guid": "685811be-ffc0-4b5f-90d4-7121242b8c4f",
+                            "name": "NVIDIA Pro Graphics",
+                            "parentId": "db3c15d5-01b4-4db4-912c-03bf7e88260f"
+                        },
+                        {
+                            "sortIndex": 5,
+                            "children": [],
+                            "id": 222256,
+                            "guid": "80cc92ce-26e4-4f05-9189-d293e0cfd5a6",
+                            "name": "NVIDIA TESLA",
+                            "parentId": "db3c15d5-01b4-4db4-912c-03bf7e88260f"
+                        }
+                    ],
+                    "id": 105434,
+                    "guid": "db3c15d5-01b4-4db4-912c-03bf7e88260f",
+                    "name": "Видеокарты профессиональные",
+                    "parentId": "f4300ee6-a3d2-4799-8cbb-a077c89ff3db"
+                },
+                {
+                    "sortIndex": 5,
+                    "children": [
+                        {
+                            "sortIndex": 2,
+                            "children": [],
+                            "id": 10413,
+                            "guid": "8379eb7a-2b31-41d8-aa31-465e4efb41bc",
+                            "name": "HDD SAS внутренние",
+                            "parentId": "7e6b7fe8-bf27-47f4-a30d-fd388eccf8f5"
+                        },
+                        {
+                            "sortIndex": 3,
+                            "children": [],
+                            "id": 18181,
+                            "guid": "6d97ae2f-debf-46bf-8194-bf1e7e62f410",
+                            "name": "HDD SATA внутренние",
+                            "parentId": "7e6b7fe8-bf27-47f4-a30d-fd388eccf8f5"
+                        },
+                        {
+                            "sortIndex": 4,
+                            "children": [],
+                            "id": 670,
+                            "guid": "e38fafe9-7a63-4f0e-b11e-541f69dffd8a",
+                            "name": "HDD внешние",
+                            "parentId": "7e6b7fe8-bf27-47f4-a30d-fd388eccf8f5"
+                        },
+                        {
+                            "sortIndex": 5,
+                            "children": [],
+                            "id": 4160,
+                            "guid": "a50acf75-213e-4185-aa31-3ef01d020cd8",
+                            "name": "HDD для мобильных устройств",
+                            "parentId": "7e6b7fe8-bf27-47f4-a30d-fd388eccf8f5"
+                        }
+                    ],
+                    "id": 17954,
+                    "guid": "7e6b7fe8-bf27-47f4-a30d-fd388eccf8f5",
+                    "name": "Жесткие диски",
+                    "parentId": "f4300ee6-a3d2-4799-8cbb-a077c89ff3db"
+                },
+                {
+                    "sortIndex": 6,
+                    "children": [
+                        {
+                            "sortIndex": 2,
+                            "children": [],
+                            "id": 105440,
+                            "guid": "6bc1bf69-d27e-4948-bb22-f3cc60724643",
+                            "name": "Контроллеры Broadcom (LSI)",
+                            "parentId": "20588c31-6a02-45bd-8901-6d222dfc540e"
+                        }
+                    ],
+                    "id": 105438,
+                    "guid": "20588c31-6a02-45bd-8901-6d222dfc540e",
+                    "name": "Контроллеры для серверов",
+                    "parentId": "f4300ee6-a3d2-4799-8cbb-a077c89ff3db"
+                },
+                {
+                    "sortIndex": 7,
+                    "children": [],
+                    "id": 1108,
+                    "guid": "73f94de3-c1f6-4e48-a7c2-19d0d351e14d",
+                    "name": "Корпуса",
+                    "parentId": "f4300ee6-a3d2-4799-8cbb-a077c89ff3db"
+                },
+                {
+                    "sortIndex": 8,
+                    "children": [
+                        {
+                            "sortIndex": 1,
+                            "children": [],
+                            "id": 19838,
+                            "guid": "0e1e4515-96fe-4515-8c29-943474bf606e",
+                            "name": "Материнские платы для процесоров AMD клиентские",
+                            "parentId": "f3865a22-b846-445b-8774-db9f09fb3f13"
+                        },
+                        {
+                            "sortIndex": 2,
+                            "children": [],
+                            "id": 9408,
+                            "guid": "18a07b64-1cd0-4533-9beb-ac37cdee8fdb",
+                            "name": "Материнские платы для процесоров Intel клиентские",
+                            "parentId": "f3865a22-b846-445b-8774-db9f09fb3f13"
+                        }
+                    ],
+                    "id": 10869,
+                    "guid": "f3865a22-b846-445b-8774-db9f09fb3f13",
+                    "name": "Материнские платы",
+                    "parentId": "f4300ee6-a3d2-4799-8cbb-a077c89ff3db"
+                },
+                {
+                    "sortIndex": 9,
+                    "children": [
+                        {
+                            "sortIndex": 3,
+                            "children": [],
+                            "id": 5619,
+                            "guid": "84af7413-94b0-4b7f-aef6-8f1918cc8966",
+                            "name": "Память DDR3 клиентская",
+                            "parentId": "ae708ece-41df-4f41-b349-685a851de7f7"
+                        },
+                        {
+                            "sortIndex": 4,
+                            "children": [],
+                            "id": 86331,
+                            "guid": "f42781e7-eeae-4dd0-b0b3-1d3032dc99bb",
+                            "name": "Память DDR4 клиентская",
+                            "parentId": "ae708ece-41df-4f41-b349-685a851de7f7"
+                        },
+                        {
+                            "sortIndex": 5,
+                            "children": [],
+                            "id": 194476,
+                            "guid": "75bbd77f-59be-4dcd-a5e1-694348555b21",
+                            "name": "Память DDR5 клиентская",
+                            "parentId": "ae708ece-41df-4f41-b349-685a851de7f7"
+                        },
+                        {
+                            "sortIndex": 6,
+                            "children": [],
+                            "id": 10180,
+                            "guid": "578895e1-ef40-43f9-9476-d7d31f5d826e",
+                            "name": "Память для ноутбуков",
+                            "parentId": "ae708ece-41df-4f41-b349-685a851de7f7"
+                        }
+                    ],
+                    "id": 8963,
+                    "guid": "ae708ece-41df-4f41-b349-685a851de7f7",
+                    "name": "Оперативная память ",
+                    "parentId": "f4300ee6-a3d2-4799-8cbb-a077c89ff3db"
+                },
+                {
+                    "sortIndex": 10,
+                    "children": [],
+                    "id": 6639,
+                    "guid": "23d052f4-c43c-491b-8fbd-a56377b72d6e",
+                    "name": "Оптические приводы",
+                    "parentId": "f4300ee6-a3d2-4799-8cbb-a077c89ff3db"
+                },
+                {
+                    "sortIndex": 11,
+                    "children": [],
+                    "id": 21057,
+                    "guid": "afac0133-4240-4c5b-818c-79c8c9a0ffa1",
+                    "name": "Процессоры",
+                    "parentId": "f4300ee6-a3d2-4799-8cbb-a077c89ff3db"
+                },
+                {
+                    "sortIndex": 13,
+                    "children": [],
+                    "id": 26131,
+                    "guid": "cb2db5ba-7907-409f-9c1e-8015aac405ae",
+                    "name": "Системы охлаждения",
+                    "parentId": "f4300ee6-a3d2-4799-8cbb-a077c89ff3db"
+                },
+                {
+                    "sortIndex": 14,
+                    "children": [
+                        {
+                            "sortIndex": 1,
+                            "children": [],
+                            "id": 115084,
+                            "guid": "734a7c0f-3536-423b-beb3-d59e11a06b8b",
+                            "name": "SSD NVMe внутренние",
+                            "parentId": "be86a62b-eacb-4f37-96e4-355166b96567"
+                        },
+                        {
+                            "sortIndex": 4,
+                            "children": [],
+                            "id": 29156,
+                            "guid": "c634fdd3-1c10-4440-982c-6fa5d46201f8",
+                            "name": "SSD SATA внутренние",
+                            "parentId": "be86a62b-eacb-4f37-96e4-355166b96567"
+                        },
+                        {
+                            "sortIndex": 5,
+                            "children": [],
+                            "id": 150196,
+                            "guid": "d9c5d96e-c845-4345-a383-214e27bfb952",
+                            "name": "SSD внешние",
+                            "parentId": "be86a62b-eacb-4f37-96e4-355166b96567"
+                        }
+                    ],
+                    "id": 161009,
+                    "guid": "be86a62b-eacb-4f37-96e4-355166b96567",
+                    "name": "Твердотельные накопители SSD",
+                    "parentId": "f4300ee6-a3d2-4799-8cbb-a077c89ff3db"
+                }
+            ],
+            "id": 10243,
+            "guid": "f4300ee6-a3d2-4799-8cbb-a077c89ff3db",
+            "name": "Комплектующие",
+            "parentId": "04030ab1-678b-457d-8976-ac7297c65ce6"
+        },
+        {
+            "sortIndex": 9,
+            "children": [
+                {
+                    "sortIndex": 1,
+                    "children": [],
+                    "id": 13619,
+                    "guid": "7021c108-1cbc-4466-a00d-6b6ad4ce7d55",
+                    "name": "Батареи APC",
+                    "parentId": "460ee650-f750-441e-bfe2-0d7b83c5df36"
+                },
+                {
+                    "sortIndex": 2,
+                    "children": [],
+                    "id": 105591,
+                    "guid": "7c1aa878-031c-4771-bd70-9a2b4a8a6740",
+                    "name": "Батареи универсальные",
+                    "parentId": "460ee650-f750-441e-bfe2-0d7b83c5df36"
+                },
+                {
+                    "sortIndex": 3,
+                    "children": [],
+                    "id": 7583,
+                    "guid": "cd94cfd1-1802-4b65-9b04-e30f13613af5",
+                    "name": "Сетевые фильтры",
+                    "parentId": "460ee650-f750-441e-bfe2-0d7b83c5df36"
+                },
+                {
+                    "sortIndex": 4,
+                    "children": [],
+                    "id": 113260,
+                    "guid": "ad66266a-7fba-4629-9535-b543b6df4303",
+                    "name": "ИБП Huawei",
+                    "parentId": "460ee650-f750-441e-bfe2-0d7b83c5df36"
+                },
+                {
+                    "sortIndex": 6,
+                    "children": [
+                        {
+                            "sortIndex": 1,
+                            "children": [
+                                {
+                                    "sortIndex": 1,
+                                    "children": [],
+                                    "id": 26117,
+                                    "guid": "c527bf93-e34c-41ae-8825-ec7ab66a043b",
+                                    "name": "Cиловые модули",
+                                    "parentId": "65690ec8-4a44-4999-bdc7-209eac1bf5aa"
+                                },
+                                {
+                                    "sortIndex": 2,
+                                    "children": [],
+                                    "id": 13453,
+                                    "guid": "9ada4b4e-76c4-4be4-80dd-1d66ecf0d3b6",
+                                    "name": "Батарейные модули",
+                                    "parentId": "65690ec8-4a44-4999-bdc7-209eac1bf5aa"
+                                },
+                                {
+                                    "sortIndex": 3,
+                                    "children": [],
+                                    "id": 8788,
+                                    "guid": "7e481479-26ff-4682-b7eb-a1b0a64fa9e6",
+                                    "name": "Опции для Symmetra",
+                                    "parentId": "65690ec8-4a44-4999-bdc7-209eac1bf5aa"
+                                }
+                            ],
+                            "id": 29452,
+                            "guid": "65690ec8-4a44-4999-bdc7-209eac1bf5aa",
+                            "name": "Symmetra",
+                            "parentId": "c970c75c-3fd3-43d0-9c5f-108c74b74cc2"
+                        },
+                        {
+                            "sortIndex": 2,
+                            "children": [
+                                {
+                                    "sortIndex": 2,
+                                    "children": [],
+                                    "id": 198034,
+                                    "guid": "f64c1095-a111-4c97-9ff6-655cb9c8fb95",
+                                    "name": "ИБП MGE Galaxy",
+                                    "parentId": "7a9744b5-7cc7-4f30-b6aa-e428579f47a9"
+                                }
+                            ],
+                            "id": 7951,
+                            "guid": "7a9744b5-7cc7-4f30-b6aa-e428579f47a9",
+                            "name": "MGE Galaxy",
+                            "parentId": "c970c75c-3fd3-43d0-9c5f-108c74b74cc2"
+                        },
+                        {
+                            "sortIndex": 3,
+                            "children": [
+                                {
+                                    "sortIndex": 2,
+                                    "children": [],
+                                    "id": 198035,
+                                    "guid": "c37b24a3-edcd-4729-9f32-e014165f51b6",
+                                    "name": "ИБП Smart UPS VT",
+                                    "parentId": "13f7e021-16b7-4cb6-bb37-63e4e016151e"
+                                }
+                            ],
+                            "id": 25021,
+                            "guid": "13f7e021-16b7-4cb6-bb37-63e4e016151e",
+                            "name": "Smart UPS VT",
+                            "parentId": "c970c75c-3fd3-43d0-9c5f-108c74b74cc2"
+                        },
+                        {
+                            "sortIndex": 4,
+                            "children": [
+                                {
+                                    "sortIndex": 2,
+                                    "children": [],
+                                    "id": 198037,
+                                    "guid": "ebfb6afc-611b-4a6e-9135-eb79dd2b802c",
+                                    "name": "Опции для Powercom Vanguard",
+                                    "parentId": "13345526-bf89-4ed0-803b-3c3c31b04ca3"
+                                }
+                            ],
+                            "id": 198031,
+                            "guid": "13345526-bf89-4ed0-803b-3c3c31b04ca3",
+                            "name": "Powercom Vanguard",
+                            "parentId": "c970c75c-3fd3-43d0-9c5f-108c74b74cc2"
+                        },
+                        {
+                            "sortIndex": 5,
+                            "children": [],
+                            "id": 208997,
+                            "guid": "cb88161f-bbcf-48bb-9bbc-d2a55372bcf0",
+                            "name": "Бастион",
+                            "parentId": "c970c75c-3fd3-43d0-9c5f-108c74b74cc2"
+                        }
+                    ],
+                    "id": 28120,
+                    "guid": "c970c75c-3fd3-43d0-9c5f-108c74b74cc2",
+                    "name": "ИБП большой мощности",
+                    "parentId": "460ee650-f750-441e-bfe2-0d7b83c5df36"
+                },
+                {
+                    "sortIndex": 7,
+                    "children": [
+                        {
+                            "sortIndex": 1,
+                            "children": [],
+                            "id": 9001,
+                            "guid": "a756d6c6-9cce-4238-b546-90b70ac41a68",
+                            "name": "Back-UPS ",
+                            "parentId": "b6f7231f-75c6-4b37-a78d-bf8ca1a6f958"
+                        },
+                        {
+                            "sortIndex": 2,
+                            "children": [],
+                            "id": 113015,
+                            "guid": "6e4622a2-c5bf-4df3-b136-42b4d6e81009",
+                            "name": "ИБП для дома и офиса",
+                            "parentId": "b6f7231f-75c6-4b37-a78d-bf8ca1a6f958"
+                        },
+                        {
+                            "sortIndex": 3,
+                            "children": [],
+                            "id": 106244,
+                            "guid": "bb8a5e49-a7a6-4652-b393-9025ad69c689",
+                            "name": "ИБП для ПК linе interactive",
+                            "parentId": "b6f7231f-75c6-4b37-a78d-bf8ca1a6f958"
+                        }
+                    ],
+                    "id": 3870,
+                    "guid": "b6f7231f-75c6-4b37-a78d-bf8ca1a6f958",
+                    "name": "ИБП для ПК",
+                    "parentId": "460ee650-f750-441e-bfe2-0d7b83c5df36"
+                },
+                {
+                    "sortIndex": 8,
+                    "children": [
+                        {
+                            "sortIndex": 1,
+                            "children": [],
+                            "id": 22466,
+                            "guid": "4195f023-85fc-4451-880b-60f06136a92f",
+                            "name": "ИБП  line interactive RM",
+                            "parentId": "6e4043a4-3de5-4615-993d-d441d9b9ec4d"
+                        },
+                        {
+                            "sortIndex": 2,
+                            "children": [],
+                            "id": 26784,
+                            "guid": "d9af87a1-eb97-47f6-a8a3-557a33334ebd",
+                            "name": "ИБП  online",
+                            "parentId": "6e4043a4-3de5-4615-993d-d441d9b9ec4d"
+                        },
+                        {
+                            "sortIndex": 3,
+                            "children": [],
+                            "id": 24430,
+                            "guid": "04e86af4-bd36-4b54-820a-41ac725761bc",
+                            "name": "ИБП linе interactive",
+                            "parentId": "6e4043a4-3de5-4615-993d-d441d9b9ec4d"
+                        }
+                    ],
+                    "id": 1927,
+                    "guid": "6e4043a4-3de5-4615-993d-d441d9b9ec4d",
+                    "name": "ИБП для серверов и сетевых устройств",
+                    "parentId": "460ee650-f750-441e-bfe2-0d7b83c5df36"
+                },
+                {
+                    "sortIndex": 9,
+                    "children": [],
+                    "id": 17193,
+                    "guid": "8bafaf3c-e298-4b69-bce5-0cb91d2fdd11",
+                    "name": "Опции и дополнительное оборудование для ИБП",
+                    "parentId": "460ee650-f750-441e-bfe2-0d7b83c5df36"
+                },
+                {
+                    "sortIndex": 10,
+                    "children": [],
+                    "id": 90175,
+                    "guid": "26acda5b-ae97-4c3f-99f7-2116cef36475",
+                    "name": "Стабилизаторы напряжения",
+                    "parentId": "460ee650-f750-441e-bfe2-0d7b83c5df36"
+                }
+            ],
+            "id": 25733,
+            "guid": "460ee650-f750-441e-bfe2-0d7b83c5df36",
+            "name": "Источники бесперебойного питания",
+            "parentId": "04030ab1-678b-457d-8976-ac7297c65ce6"
+        },
+        {
+            "sortIndex": 10,
+            "children": [
+                {
+                    "sortIndex": 2,
+                    "children": [
+                        {
+                            "sortIndex": 1,
+                            "children": [],
+                            "id": 83022,
+                            "guid": "64ba4089-e952-45be-bdc1-f0df74268b0d",
+                            "name": "Кабельные лотки",
+                            "parentId": "7e9a7f77-2a5c-4f82-a541-c3cfeb125e32"
+                        },
+                        {
+                            "sortIndex": 2,
+                            "children": [],
+                            "id": 156294,
+                            "guid": "c4ca445a-a216-4f98-9be0-f27b14d51741",
+                            "name": "Короба, плинтуса, компоненты для  монтажа",
+                            "parentId": "7e9a7f77-2a5c-4f82-a541-c3cfeb125e32"
+                        },
+                        {
+                            "sortIndex": 3,
+                            "children": [],
+                            "id": 156295,
+                            "guid": "fa8d8398-9dcc-4d47-b575-e0e371912fbc",
+                            "name": "Прочие элементы для кабеленесущих систем",
+                            "parentId": "7e9a7f77-2a5c-4f82-a541-c3cfeb125e32"
+                        }
+                    ],
+                    "id": 83021,
+                    "guid": "7e9a7f77-2a5c-4f82-a541-c3cfeb125e32",
+                    "name": "Кабеленесущие системы",
+                    "parentId": "3c744e98-a639-45fa-8934-714ed476ffbb"
+                },
+                {
+                    "sortIndex": 4,
+                    "children": [
+                        {
+                            "sortIndex": 1,
+                            "children": [],
+                            "id": 5510,
+                            "guid": "b8291356-94e1-4999-9043-6957017d17b8",
+                            "name": "Неуправляемые коммутаторы",
+                            "parentId": "87b26303-d6be-4b16-9030-2061cedd1b02"
+                        },
+                        {
+                            "sortIndex": 2,
+                            "children": [
+                                {
+                                    "sortIndex": 1,
+                                    "children": [],
+                                    "id": 28100,
+                                    "guid": "6a9cc53d-fb01-4608-a474-65925933a1b3",
+                                    "name": "Smart (WEB) управляемые",
+                                    "parentId": "2a9a9eff-d253-42b0-8300-8510c2699778"
+                                },
+                                {
+                                    "sortIndex": 2,
+                                    "children": [],
+                                    "id": 29066,
+                                    "guid": "098a34e1-40e7-46dc-9b3e-9d849aa2ad61",
+                                    "name": "Коммутаторы для рабочих групп",
+                                    "parentId": "2a9a9eff-d253-42b0-8300-8510c2699778"
+                                },
+                                {
+                                    "sortIndex": 3,
+                                    "children": [],
+                                    "id": 27254,
+                                    "guid": "35377dde-0bf8-4080-a939-6e31b6f54687",
+                                    "name": "Коммутаторы ядра сети",
+                                    "parentId": "2a9a9eff-d253-42b0-8300-8510c2699778"
+                                }
+                            ],
+                            "id": 14885,
+                            "guid": "2a9a9eff-d253-42b0-8300-8510c2699778",
+                            "name": "Управляемые коммутаторы",
+                            "parentId": "87b26303-d6be-4b16-9030-2061cedd1b02"
+                        },
+                        {
+                            "sortIndex": 3,
+                            "children": [],
+                            "id": 63075,
+                            "guid": "e970220f-6ecc-4f7a-bed3-cedb806e5bee",
+                            "name": "IP-камеры",
+                            "parentId": "87b26303-d6be-4b16-9030-2061cedd1b02"
+                        },
+                        {
+                            "sortIndex": 4,
+                            "children": [],
+                            "id": 12990,
+                            "guid": "f76e35f8-bf75-487f-84c4-ff23c1896c85",
+                            "name": "Сетевые карты",
+                            "parentId": "87b26303-d6be-4b16-9030-2061cedd1b02"
+                        },
+                        {
+                            "sortIndex": 5,
+                            "children": [],
+                            "id": 80,
+                            "guid": "a4059f95-a41e-4a11-93ba-4dae20a40452",
+                            "name": "Трансиверы",
+                            "parentId": "87b26303-d6be-4b16-9030-2061cedd1b02"
+                        },
+                        {
+                            "sortIndex": 6,
+                            "children": [],
+                            "id": 17477,
+                            "guid": "eda77646-f03c-411c-8197-8ccae159b3a7",
+                            "name": "Безопасность локальных сетей",
+                            "parentId": "87b26303-d6be-4b16-9030-2061cedd1b02"
+                        },
+                        {
+                            "sortIndex": 7,
+                            "children": [],
+                            "id": 29656,
+                            "guid": "a3a1306b-1091-4914-9ff4-f7cafd3b4a0d",
+                            "name": "Конверторы",
+                            "parentId": "87b26303-d6be-4b16-9030-2061cedd1b02"
+                        },
+                        {
+                            "sortIndex": 8,
+                            "children": [],
+                            "id": 15730,
+                            "guid": "55912757-95f3-496f-9b85-34ce0b554edc",
+                            "name": "Маршрутизаторы",
+                            "parentId": "87b26303-d6be-4b16-9030-2061cedd1b02"
+                        },
+                        {
+                            "sortIndex": 9,
+                            "children": [],
+                            "id": 19025,
+                            "guid": "2818cebe-c031-41b4-ba55-59d946bc15d4",
+                            "name": "Опции для коммутаторов",
+                            "parentId": "87b26303-d6be-4b16-9030-2061cedd1b02"
+                        },
+                        {
+                            "sortIndex": 11,
+                            "children": [],
+                            "id": 1738,
+                            "guid": "172f0c6a-9122-4ee4-89b1-c5ba89798a75",
+                            "name": "Опции к маршрутизаторам",
+                            "parentId": "87b26303-d6be-4b16-9030-2061cedd1b02"
+                        },
+                        {
+                            "sortIndex": 13,
+                            "children": [],
+                            "id": 188848,
+                            "guid": "fbe58625-886b-4da2-b41a-ac4df747e365",
+                            "name": "Лицензии",
+                            "parentId": "87b26303-d6be-4b16-9030-2061cedd1b02"
+                        }
+                    ],
+                    "id": 5363,
+                    "guid": "87b26303-d6be-4b16-9030-2061cedd1b02",
+                    "name": "Локальные сети",
+                    "parentId": "3c744e98-a639-45fa-8934-714ed476ffbb"
+                },
+                {
+                    "sortIndex": 5,
+                    "children": [
+                        {
+                            "sortIndex": 1,
+                            "children": [],
+                            "id": 62927,
+                            "guid": "2a4f951b-0d73-4486-83bf-4ca7cbc7e5fa",
+                            "name": "Беспроводные маршрутизаторы",
+                            "parentId": "0e34d640-03f4-4a5c-aaee-18228f579ac7"
+                        },
+                        {
+                            "sortIndex": 2,
+                            "children": [],
+                            "id": 11818,
+                            "guid": "a61861eb-1431-49d5-826d-c099e64d9698",
+                            "name": "Беспроводные сетевые адаптеры",
+                            "parentId": "0e34d640-03f4-4a5c-aaee-18228f579ac7"
+                        },
+                        {
+                            "sortIndex": 3,
+                            "children": [],
+                            "id": 32504,
+                            "guid": "eda13154-8474-43b4-8c34-de84da403890",
+                            "name": "Контроллеры беспроводных сетей",
+                            "parentId": "0e34d640-03f4-4a5c-aaee-18228f579ac7"
+                        },
+                        {
+                            "sortIndex": 4,
+                            "children": [],
+                            "id": 25171,
+                            "guid": "fdb1e385-afba-4396-a15f-2f5ae8d8e62e",
+                            "name": "Опции для беспроводных сетей",
+                            "parentId": "0e34d640-03f4-4a5c-aaee-18228f579ac7"
+                        },
+                        {
+                            "sortIndex": 6,
+                            "children": [],
+                            "id": 19969,
+                            "guid": "c4bf4b8d-9fa0-4c7c-8053-154926b848d3",
+                            "name": "Точки доступа SOHO",
+                            "parentId": "0e34d640-03f4-4a5c-aaee-18228f579ac7"
+                        },
+                        {
+                            "sortIndex": 7,
+                            "children": [],
+                            "id": 12915,
+                            "guid": "f45da4ab-c47d-4bc1-9bd3-de2e9da0b322",
+                            "name": "Точки доступа для корпоративных сетей",
+                            "parentId": "0e34d640-03f4-4a5c-aaee-18228f579ac7"
+                        },
+                        {
+                            "sortIndex": 8,
+                            "children": [],
+                            "id": 66218,
+                            "guid": "80369c07-47f7-4999-b6bd-c503a2b2dbc9",
+                            "name": "Уличные точки доступа/радиомосты",
+                            "parentId": "0e34d640-03f4-4a5c-aaee-18228f579ac7"
+                        }
+                    ],
+                    "id": 22576,
+                    "guid": "0e34d640-03f4-4a5c-aaee-18228f579ac7",
+                    "name": "Оборудование беспроводных сетей",
+                    "parentId": "3c744e98-a639-45fa-8934-714ed476ffbb"
+                },
+                {
+                    "sortIndex": 6,
+                    "children": [
+                        {
+                            "sortIndex": 1,
+                            "children": [],
+                            "id": 28174,
+                            "guid": "dabe01d7-2be0-4888-8f10-b5189e9bd44b",
+                            "name": "Кабель",
+                            "parentId": "55f17170-b5f3-4413-b9d3-ac0a35d245d1"
+                        },
+                        {
+                            "sortIndex": 2,
+                            "children": [],
+                            "id": 6985,
+                            "guid": "8142c3e8-b941-44f6-9227-e3103cd75297",
+                            "name": "Коннекторы",
+                            "parentId": "55f17170-b5f3-4413-b9d3-ac0a35d245d1"
+                        },
+                        {
+                            "sortIndex": 3,
+                            "children": [],
+                            "id": 20377,
+                            "guid": "22658e81-6965-4ac8-b698-6f06792fe293",
+                            "name": "Монтажный инструмент",
+                            "parentId": "55f17170-b5f3-4413-b9d3-ac0a35d245d1"
+                        },
+                        {
+                            "sortIndex": 4,
+                            "children": [],
+                            "id": 535,
+                            "guid": "91e91638-e504-45a7-940b-cfa6617aea49",
+                            "name": "Патч-корды",
+                            "parentId": "55f17170-b5f3-4413-b9d3-ac0a35d245d1"
+                        },
+                        {
+                            "sortIndex": 5,
+                            "children": [],
+                            "id": 100452,
+                            "guid": "181ea8a4-fa13-463b-94fe-a45c4768a504",
+                            "name": "Прочие компоненты СКС",
+                            "parentId": "55f17170-b5f3-4413-b9d3-ac0a35d245d1"
+                        },
+                        {
+                            "sortIndex": 6,
+                            "children": [],
+                            "id": 163491,
+                            "guid": "0b7de2a8-6824-411b-92e4-a87312d51dd2",
+                            "name": "Оптические компоненты СКС",
+                            "parentId": "55f17170-b5f3-4413-b9d3-ac0a35d245d1"
+                        },
+                        {
+                            "sortIndex": 7,
+                            "children": [],
+                            "id": 422,
+                            "guid": "c8ff9fe2-87b4-4ef6-8baf-e10794195d1b",
+                            "name": "Розетки и патч-панели",
+                            "parentId": "55f17170-b5f3-4413-b9d3-ac0a35d245d1"
+                        }
+                    ],
+                    "id": 18808,
+                    "guid": "55f17170-b5f3-4413-b9d3-ac0a35d245d1",
+                    "name": "Пассивное сетевое оборудование",
+                    "parentId": "3c744e98-a639-45fa-8934-714ed476ffbb"
+                },
+                {
+                    "sortIndex": 7,
+                    "children": [
+                        {
+                            "sortIndex": 10,
+                            "children": [],
+                            "id": 3558,
+                            "guid": "fcc83ed3-d122-4be3-ac4c-a6bb8b31172c",
+                            "name": "VoIP&VideoPhone  ",
+                            "parentId": "db751f5c-6b2c-4299-904a-a8892ae7b287"
+                        },
+                        {
+                            "sortIndex": 11,
+                            "children": [],
+                            "id": 21601,
+                            "guid": "4a375b0a-63b8-4678-a989-0df6f4678b2a",
+                            "name": "Опции для телекоммуникаций",
+                            "parentId": "db751f5c-6b2c-4299-904a-a8892ae7b287"
+                        }
+                    ],
+                    "id": 210,
+                    "guid": "db751f5c-6b2c-4299-904a-a8892ae7b287",
+                    "name": "Телекоммуникации",
+                    "parentId": "3c744e98-a639-45fa-8934-714ed476ffbb"
+                }
+            ],
+            "id": 14822,
+            "guid": "3c744e98-a639-45fa-8934-714ed476ffbb",
+            "name": "Сетевое оборудование",
+            "parentId": "04030ab1-678b-457d-8976-ac7297c65ce6"
+        },
+        {
+            "sortIndex": 11,
+            "children": [
+                {
+                    "sortIndex": 3,
+                    "children": [
+                        {
+                            "sortIndex": 2,
+                            "children": [],
+                            "id": 116330,
+                            "guid": "a247d3e3-59ef-415f-bc5d-b4d2ae4670a6",
+                            "name": "Беспроводные/интерьерные аудиосистемы",
+                            "parentId": "3fa16239-66cc-4693-9aba-db9e5929640f"
+                        },
+                        {
+                            "sortIndex": 3,
+                            "children": [],
+                            "id": 116331,
+                            "guid": "be79757f-f6eb-4fe4-85c0-9855a3d1ad83",
+                            "name": "Для коммерческих инсталляций",
+                            "parentId": "3fa16239-66cc-4693-9aba-db9e5929640f"
+                        },
+                        {
+                            "sortIndex": 5,
+                            "children": [],
+                            "id": 116329,
+                            "guid": "69b33540-5b21-4e0b-b022-a805aeb8178d",
+                            "name": "Портативные системы",
+                            "parentId": "3fa16239-66cc-4693-9aba-db9e5929640f"
+                        }
+                    ],
+                    "id": 116325,
+                    "guid": "3fa16239-66cc-4693-9aba-db9e5929640f",
+                    "name": "Акустические системы",
+                    "parentId": "9aebc3d5-61b9-403e-8851-fc0e00274cf7"
+                },
+                {
+                    "sortIndex": 4,
+                    "children": [
+                        {
+                            "sortIndex": 1,
+                            "children": [],
+                            "id": 203355,
+                            "guid": "31ad7fd8-9f72-41f7-9875-ea761c12c7c2",
+                            "name": "LED экраны",
+                            "parentId": "8e46b504-11fe-4611-abc5-2e1e1fe1596e"
+                        },
+                        {
+                            "sortIndex": 2,
+                            "children": [],
+                            "id": 203356,
+                            "guid": "b310832d-58b6-495b-847a-a59651f83e35",
+                            "name": "Коммерческие телевизоры",
+                            "parentId": "8e46b504-11fe-4611-abc5-2e1e1fe1596e"
+                        },
+                        {
+                            "sortIndex": 3,
+                            "children": [],
+                            "id": 28760,
+                            "guid": "f8dfb6c6-2c25-4239-a564-2bb4613670c1",
+                            "name": "Проекторы",
+                            "parentId": "8e46b504-11fe-4611-abc5-2e1e1fe1596e"
+                        },
+                        {
+                            "sortIndex": 4,
+                            "children": [],
+                            "id": 8139,
+                            "guid": "a810cec7-0ab4-4e8c-b05e-e6010cafc082",
+                            "name": "Опции к проекторам",
+                            "parentId": "8e46b504-11fe-4611-abc5-2e1e1fe1596e"
+                        },
+                        {
+                            "sortIndex": 5,
+                            "children": [],
+                            "id": 15411,
+                            "guid": "34d01b18-70fe-420d-808e-17ec86dd3ba1",
+                            "name": "Профессиональные панели",
+                            "parentId": "8e46b504-11fe-4611-abc5-2e1e1fe1596e"
+                        },
+                        {
+                            "sortIndex": 9,
+                            "children": [],
+                            "id": 198227,
+                            "guid": "dc3fc3f5-36ad-4fc6-91eb-63e6ce64f7b5",
+                            "name": "Nextouch: интерактивное оборудование",
+                            "parentId": "8e46b504-11fe-4611-abc5-2e1e1fe1596e"
+                        },
+                        {
+                            "sortIndex": 11,
+                            "children": [],
+                            "id": 3350,
+                            "guid": "645ed07c-fcea-4002-9256-997cc3089d4e",
+                            "name": "Опции к коммерческим дисплеям",
+                            "parentId": "8e46b504-11fe-4611-abc5-2e1e1fe1596e"
+                        },
+                        {
+                            "sortIndex": 13,
+                            "children": [],
+                            "id": 219895,
+                            "guid": "3dd4c5de-7394-4ddf-9055-a4f76c7c29c9",
+                            "name": "Cactus: проекционные экраны",
+                            "parentId": "8e46b504-11fe-4611-abc5-2e1e1fe1596e"
+                        }
+                    ],
+                    "id": 203354,
+                    "guid": "8e46b504-11fe-4611-abc5-2e1e1fe1596e",
+                    "name": "Видео-отображающее оборудование",
+                    "parentId": "9aebc3d5-61b9-403e-8851-fc0e00274cf7"
+                },
+                {
+                    "sortIndex": 5,
+                    "children": [],
+                    "id": 145917,
+                    "guid": "ccda7291-db7b-4c1a-b1d0-8fd0cc1ae89b",
+                    "name": "Кабели и переходники (Video)",
+                    "parentId": "9aebc3d5-61b9-403e-8851-fc0e00274cf7"
+                },
+                {
+                    "sortIndex": 6,
+                    "children": [],
+                    "id": 149869,
+                    "guid": "37d77a3c-5464-4920-9a0d-dbfeea1c8d25",
+                    "name": "Камеры для Видеоконференций",
+                    "parentId": "9aebc3d5-61b9-403e-8851-fc0e00274cf7"
+                },
+                {
+                    "sortIndex": 8,
+                    "children": [],
+                    "id": 116335,
+                    "guid": "0b9c0c0e-5cbe-4d57-b8ce-b556fee7c400",
+                    "name": "Микрофоны",
+                    "parentId": "9aebc3d5-61b9-403e-8851-fc0e00274cf7"
+                },
+                {
+                    "sortIndex": 9,
+                    "children": [],
+                    "id": 155395,
+                    "guid": "8d3aeeab-99f6-4a92-a320-5a0bc532ff20",
+                    "name": "Микшеры",
+                    "parentId": "9aebc3d5-61b9-403e-8851-fc0e00274cf7"
+                },
+                {
+                    "sortIndex": 10,
+                    "children": [],
+                    "id": 145919,
+                    "guid": "5fb660e3-cb1f-4b64-b972-11f52e24d548",
+                    "name": "Монтажное оборудование (Video)",
+                    "parentId": "9aebc3d5-61b9-403e-8851-fc0e00274cf7"
+                },
+                {
+                    "sortIndex": 11,
+                    "children": [],
+                    "id": 116324,
+                    "guid": "ecfd4716-9de4-4269-b411-813f3aff0fa9",
+                    "name": "Оборудование для конференц-систем",
+                    "parentId": "9aebc3d5-61b9-403e-8851-fc0e00274cf7"
+                },
+                {
+                    "sortIndex": 12,
+                    "children": [],
+                    "id": 145918,
+                    "guid": "b17c6020-5ac8-4bb3-ae3e-c6c2e5f07d42",
+                    "name": "Оборудование для передачи, обработки и коммутации видеосигналов",
+                    "parentId": "9aebc3d5-61b9-403e-8851-fc0e00274cf7"
+                },
+                {
+                    "sortIndex": 14,
+                    "children": [],
+                    "id": 116332,
+                    "guid": "be03f327-cc66-4372-b54f-f13fd2354ded",
+                    "name": "Ресиверы/Проигрыватели/Усилители",
+                    "parentId": "9aebc3d5-61b9-403e-8851-fc0e00274cf7"
+                },
+                {
+                    "sortIndex": 15,
+                    "children": [],
+                    "id": 147996,
+                    "guid": "8db27867-d4d0-400c-97ef-bc23d424300b",
+                    "name": "Решения для коллективной работы",
+                    "parentId": "9aebc3d5-61b9-403e-8851-fc0e00274cf7"
+                },
+                {
+                    "sortIndex": 16,
+                    "children": [],
+                    "id": 147997,
+                    "guid": "9ec952f4-9b4e-41bd-a75d-5ab31637383d",
+                    "name": "Системы управления",
+                    "parentId": "9aebc3d5-61b9-403e-8851-fc0e00274cf7"
+                },
+                {
+                    "sortIndex": 17,
+                    "children": [],
+                    "id": 116333,
+                    "guid": "36d55578-09ae-4705-88ea-062ffeaa9f53",
+                    "name": "Коммерческие усилители мощности и цифровые процессоры",
+                    "parentId": "9aebc3d5-61b9-403e-8851-fc0e00274cf7"
+                },
+                {
+                    "sortIndex": 18,
+                    "children": [],
+                    "id": 189102,
+                    "guid": "a665ee7a-5174-4d80-a81d-bdcd3bd204b9",
+                    "name": "Видеоконтроллеры",
+                    "parentId": "9aebc3d5-61b9-403e-8851-fc0e00274cf7"
+                }
+            ],
+            "id": 116316,
+            "guid": "9aebc3d5-61b9-403e-8851-fc0e00274cf7",
+            "name": "Pro AV-оборудование (Профессиональное аудио-видео)",
+            "parentId": "04030ab1-678b-457d-8976-ac7297c65ce6"
+        },
+        {
+            "sortIndex": 12,
+            "children": [
+                {
+                    "sortIndex": 1,
+                    "children": [],
+                    "id": 11315,
+                    "guid": "46e8f96e-6105-4544-ab23-182aef68e269",
+                    "name": "KVM-оборудование",
+                    "parentId": "0e6259b2-8169-4098-aafe-0dba8ba065a2"
+                },
+                {
+                    "sortIndex": 2,
+                    "children": [],
+                    "id": 9387,
+                    "guid": "2d08ded0-5878-458b-99fd-16387fd2cec3",
+                    "name": "Шкафы",
+                    "parentId": "0e6259b2-8169-4098-aafe-0dba8ba065a2"
+                },
+                {
+                    "sortIndex": 3,
+                    "children": [],
+                    "id": 19956,
+                    "guid": "d5b0df17-eca5-4d38-87fe-7d83dc9039e1",
+                    "name": "Стойки, полки",
+                    "parentId": "0e6259b2-8169-4098-aafe-0dba8ba065a2"
+                },
+                {
+                    "sortIndex": 4,
+                    "children": [],
+                    "id": 29693,
+                    "guid": "30c780fe-323e-4454-8514-abd999accc36",
+                    "name": "PDU",
+                    "parentId": "0e6259b2-8169-4098-aafe-0dba8ba065a2"
+                },
+                {
+                    "sortIndex": 5,
+                    "children": [],
+                    "id": 21812,
+                    "guid": "eb4fd788-d591-40fa-88c0-d9c6b2536f52",
+                    "name": "Опции к шкафам, KVM",
+                    "parentId": "0e6259b2-8169-4098-aafe-0dba8ba065a2"
+                }
+            ],
+            "id": 11298,
+            "guid": "0e6259b2-8169-4098-aafe-0dba8ba065a2",
+            "name": "Коммуникационные шкафы, KVM",
+            "parentId": "04030ab1-678b-457d-8976-ac7297c65ce6"
+        },
+        {
+            "sortIndex": 13,
+            "children": [
+                {
+                    "sortIndex": 1,
+                    "children": [],
+                    "id": 28507,
+                    "guid": "305d0703-5d4d-43ed-9481-b5fec3e85159",
+                    "name": "Внешние дисковые массивы",
+                    "parentId": "fc63ab2b-43bb-4529-9ea0-0ad691f53a02"
+                },
+                {
+                    "sortIndex": 2,
+                    "children": [],
+                    "id": 223325,
+                    "guid": "5531a8d7-7794-435e-8acc-f67c756d775a",
+                    "name": "Системы хранения данных",
+                    "parentId": "fc63ab2b-43bb-4529-9ea0-0ad691f53a02"
+                },
+                {
+                    "sortIndex": 3,
+                    "children": [],
+                    "id": 106040,
+                    "guid": "02e53ae6-00dc-47f5-be92-f62f8379a5ad",
+                    "name": "NAS (Network Attach Storage)",
+                    "parentId": "fc63ab2b-43bb-4529-9ea0-0ad691f53a02"
+                },
+                {
+                    "sortIndex": 4,
+                    "children": [
+                        {
+                            "sortIndex": 1,
+                            "children": [],
+                            "id": 9164,
+                            "guid": "25d17055-c1f7-4fb2-b89b-14886a4ba82f",
+                            "name": "Ленточные автозагрузчики и библиотеки",
+                            "parentId": "39db75d9-3934-4180-abef-3e380dd4aec4"
+                        },
+                        {
+                            "sortIndex": 2,
+                            "children": [],
+                            "id": 26479,
+                            "guid": "03dd10dd-190e-49ac-bf61-0bc719e30db2",
+                            "name": "Одиночные ленточные накопители",
+                            "parentId": "39db75d9-3934-4180-abef-3e380dd4aec4"
+                        }
+                    ],
+                    "id": 21690,
+                    "guid": "39db75d9-3934-4180-abef-3e380dd4aec4",
+                    "name": "Ленточные устройства",
+                    "parentId": "fc63ab2b-43bb-4529-9ea0-0ad691f53a02"
+                },
+                {
+                    "sortIndex": 5,
+                    "children": [],
+                    "id": 10658,
+                    "guid": "8ce41e3b-897a-422c-ba4e-e654f30479ef",
+                    "name": "Опции к системам хранения",
+                    "parentId": "fc63ab2b-43bb-4529-9ea0-0ad691f53a02"
+                },
+                {
+                    "sortIndex": 6,
+                    "children": [
+                        {
+                            "sortIndex": 1,
+                            "children": [],
+                            "id": 20058,
+                            "guid": "6eec8c79-68b1-4b81-a11d-061699524f93",
+                            "name": "Flash карты USB",
+                            "parentId": "2fe8b97e-6a33-40d6-be36-f4e5a4b3986f"
+                        },
+                        {
+                            "sortIndex": 4,
+                            "children": [],
+                            "id": 15307,
+                            "guid": "fe14459c-1e5f-44dc-ba57-e58efcfe422b",
+                            "name": "Flash память SD",
+                            "parentId": "2fe8b97e-6a33-40d6-be36-f4e5a4b3986f"
+                        },
+                        {
+                            "sortIndex": 5,
+                            "children": [],
+                            "id": 226086,
+                            "guid": "967bfe6b-6f09-4fb8-a579-79c4e94677bd",
+                            "name": "Карты памяти CFexpress",
+                            "parentId": "2fe8b97e-6a33-40d6-be36-f4e5a4b3986f"
+                        },
+                        {
+                            "sortIndex": 6,
+                            "children": [],
+                            "id": 3689,
+                            "guid": "dd7657fb-4a6d-4e53-a2ab-db0b1c069d82",
+                            "name": "Ленточные носители",
+                            "parentId": "2fe8b97e-6a33-40d6-be36-f4e5a4b3986f"
+                        }
+                    ],
+                    "id": 25446,
+                    "guid": "2fe8b97e-6a33-40d6-be36-f4e5a4b3986f",
+                    "name": "Носители информации",
+                    "parentId": "fc63ab2b-43bb-4529-9ea0-0ad691f53a02"
+                }
+            ],
+            "id": 20489,
+            "guid": "fc63ab2b-43bb-4529-9ea0-0ad691f53a02",
+            "name": "Системы хранения информации",
+            "parentId": "04030ab1-678b-457d-8976-ac7297c65ce6"
+        },
+        {
+            "sortIndex": 14,
+            "children": [
+                {
+                    "sortIndex": 1,
+                    "children": [],
+                    "id": 20669,
+                    "guid": "c5468fd8-64e0-4583-a26e-d7abaa21840e",
+                    "name": "Бумага, фотобумага",
+                    "parentId": "78aeccef-f760-4dfa-bc67-46a0ff042ae1"
+                },
+                {
+                    "sortIndex": 2,
+                    "children": [],
+                    "id": 15336,
+                    "guid": "7f9189cb-9bf4-44e1-bbba-f17dde35ded4",
+                    "name": "Картриджи для широкоформатной печати",
+                    "parentId": "78aeccef-f760-4dfa-bc67-46a0ff042ae1"
+                },
+                {
+                    "sortIndex": 3,
+                    "children": [],
+                    "id": 89264,
+                    "guid": "99f88e58-4b0e-4ac9-b7c2-f18a920bb415",
+                    "name": "Картриджи для промышленной печати",
+                    "parentId": "78aeccef-f760-4dfa-bc67-46a0ff042ae1"
+                },
+                {
+                    "sortIndex": 4,
+                    "children": [],
+                    "id": 29618,
+                    "guid": "8f86040e-5506-4a8c-9298-29bd9a07f173",
+                    "name": "Картриджи лазерные",
+                    "parentId": "78aeccef-f760-4dfa-bc67-46a0ff042ae1"
+                },
+                {
+                    "sortIndex": 5,
+                    "children": [],
+                    "id": 14811,
+                    "guid": "c60f5efe-d975-4124-b938-9e9515d95258",
+                    "name": "Картриджи струйные",
+                    "parentId": "78aeccef-f760-4dfa-bc67-46a0ff042ae1"
+                },
+                {
+                    "sortIndex": 6,
+                    "children": [],
+                    "id": 113602,
+                    "guid": "da492ad6-5c23-4763-b3b1-d61af624853c",
+                    "name": "Запчасти для HP A3 (MPS)",
+                    "parentId": "78aeccef-f760-4dfa-bc67-46a0ff042ae1"
+                },
+                {
+                    "sortIndex": 8,
+                    "children": [],
+                    "id": 113601,
+                    "guid": "5927bf42-3677-478a-a643-8e5864cf44de",
+                    "name": "Картриджи для HP (MPS)",
+                    "parentId": "78aeccef-f760-4dfa-bc67-46a0ff042ae1"
+                },
+                {
+                    "sortIndex": 11,
+                    "children": [],
+                    "id": 177247,
+                    "guid": "e2405dd9-8a16-4075-8dbd-a9a1728c0297",
+                    "name": "Картриджи для ленточных принтеров для маркировки",
+                    "parentId": "78aeccef-f760-4dfa-bc67-46a0ff042ae1"
+                },
+                {
+                    "sortIndex": 12,
+                    "children": [],
+                    "id": 91982,
+                    "guid": "54f35d6d-3958-4e6b-a2ef-d9c24d05029a",
+                    "name": "Тонеры для копиров",
+                    "parentId": "78aeccef-f760-4dfa-bc67-46a0ff042ae1"
+                },
+                {
+                    "sortIndex": 13,
+                    "children": [],
+                    "id": 198735,
+                    "guid": "c5a6e72f-4c70-4b99-8391-a73496c73627",
+                    "name": "Совместимые картриджи",
+                    "parentId": "78aeccef-f760-4dfa-bc67-46a0ff042ae1"
+                }
+            ],
+            "id": 1560,
+            "guid": "78aeccef-f760-4dfa-bc67-46a0ff042ae1",
+            "name": "Расходные материалы",
+            "parentId": "04030ab1-678b-457d-8976-ac7297c65ce6"
+        },
+        {
+            "sortIndex": 15,
+            "children": [
+                {
+                    "sortIndex": 2,
+                    "children": [],
+                    "id": 25873,
+                    "guid": "7e18bd70-9670-4b1e-883e-2cb1b3b7cc5b",
+                    "name": "Клавиатуры",
+                    "parentId": "14d99071-a97f-455f-9030-8060df49c0d1"
+                },
+                {
+                    "sortIndex": 3,
+                    "children": [],
+                    "id": 9527,
+                    "guid": "d1909e5a-cf81-4e0d-92a7-7af40b18d7e3",
+                    "name": "Мыши",
+                    "parentId": "14d99071-a97f-455f-9030-8060df49c0d1"
+                },
+                {
+                    "sortIndex": 4,
+                    "children": [],
+                    "id": 165117,
+                    "guid": "6fd2c0b3-279a-4e04-8b7a-6abeb875fe7c",
+                    "name": "Комплект (клавиатура+мышь)",
+                    "parentId": "14d99071-a97f-455f-9030-8060df49c0d1"
+                },
+                {
+                    "sortIndex": 6,
+                    "children": [],
+                    "id": 11907,
+                    "guid": "4acd2630-a98b-42ed-9cdc-8a676223075c",
+                    "name": "USB адаптеры",
+                    "parentId": "14d99071-a97f-455f-9030-8060df49c0d1"
+                },
+                {
+                    "sortIndex": 7,
+                    "children": [],
+                    "id": 7507,
+                    "guid": "0ffff654-ff74-483d-be5d-60f853e516f3",
+                    "name": "Web-камеры",
+                    "parentId": "14d99071-a97f-455f-9030-8060df49c0d1"
+                },
+                {
+                    "sortIndex": 8,
+                    "children": [],
+                    "id": 72324,
+                    "guid": "522955a8-fd59-45b0-91f0-41821f2c31f0",
+                    "name": "Аксессуары",
+                    "parentId": "14d99071-a97f-455f-9030-8060df49c0d1"
+                },
+                {
+                    "sortIndex": 9,
+                    "children": [],
+                    "id": 24417,
+                    "guid": "ae927086-9c60-4aba-b727-1134c0a777e7",
+                    "name": "Акустические системы",
+                    "parentId": "14d99071-a97f-455f-9030-8060df49c0d1"
+                },
+                {
+                    "sortIndex": 11,
+                    "children": [
+                        {
+                            "sortIndex": 1,
+                            "children": [],
+                            "id": 72279,
+                            "guid": "4d3d77da-14c1-4b3b-9ecb-de69e8611cde",
+                            "name": "Беспроводные гарнитуры",
+                            "parentId": "9942687a-1a65-4ba5-b994-8ee6a196c8cf"
+                        },
+                        {
+                            "sortIndex": 2,
+                            "children": [],
+                            "id": 72313,
+                            "guid": "ca6a1b7b-7450-40eb-bdcc-498e8a39f7ea",
+                            "name": "Гарнитуры для UC",
+                            "parentId": "9942687a-1a65-4ba5-b994-8ee6a196c8cf"
+                        },
+                        {
+                            "sortIndex": 3,
+                            "children": [],
+                            "id": 72227,
+                            "guid": "bc8dda32-ed25-49e4-9867-2b2f519d578c",
+                            "name": "Проводные гарнитуры",
+                            "parentId": "9942687a-1a65-4ba5-b994-8ee6a196c8cf"
+                        }
+                    ],
+                    "id": 17624,
+                    "guid": "9942687a-1a65-4ba5-b994-8ee6a196c8cf",
+                    "name": "Гарнитуры",
+                    "parentId": "14d99071-a97f-455f-9030-8060df49c0d1"
+                },
+                {
+                    "sortIndex": 12,
+                    "children": [],
+                    "id": 72371,
+                    "guid": "c23b2bf5-6b9c-4c75-93a3-323ddbf141c9",
+                    "name": "Дополнительные полезные устройства",
+                    "parentId": "14d99071-a97f-455f-9030-8060df49c0d1"
+                },
+                {
+                    "sortIndex": 15,
+                    "children": [],
+                    "id": 167978,
+                    "guid": "aa107986-a47c-401b-8390-e2a123881f17",
+                    "name": "Наушники",
+                    "parentId": "14d99071-a97f-455f-9030-8060df49c0d1"
+                },
+                {
+                    "sortIndex": 16,
+                    "children": [],
+                    "id": 5137,
+                    "guid": "cbe80e66-86a2-40ba-a2b2-c9303cf022bc",
+                    "name": "Рули, Джойстики",
+                    "parentId": "14d99071-a97f-455f-9030-8060df49c0d1"
+                },
+                {
+                    "sortIndex": 20,
+                    "children": [],
+                    "id": 192210,
+                    "guid": "8c2c2e27-e80b-46f4-aadc-c2fd2337c97d",
+                    "name": "Смарт-часы",
+                    "parentId": "14d99071-a97f-455f-9030-8060df49c0d1"
+                }
+            ],
+            "id": 5733,
+            "guid": "14d99071-a97f-455f-9030-8060df49c0d1",
+            "name": "Аксессуары и портативная электроника",
+            "parentId": "04030ab1-678b-457d-8976-ac7297c65ce6"
+        },
+        {
+            "sortIndex": 16,
+            "children": [
+                {
+                    "sortIndex": 1,
+                    "children": [],
+                    "id": 173667,
+                    "guid": "ac013970-99a4-46e6-885b-284c256549b6",
+                    "name": "Смартфоны и мобильные телефоны",
+                    "parentId": "08a926cd-89d3-446c-b1d6-504457d7e734"
+                }
+            ],
+            "id": 40169,
+            "guid": "08a926cd-89d3-446c-b1d6-504457d7e734",
+            "name": "Смартфоны, мобильные телефоны и аксессуары",
+            "parentId": "04030ab1-678b-457d-8976-ac7297c65ce6"
+        },
+        {
+            "sortIndex": 17,
+            "children": [
+                {
+                    "sortIndex": 1,
+                    "children": [],
+                    "id": 5503,
+                    "guid": "7608f798-8c14-4d98-92af-df046845d623",
+                    "name": "Видеонаблюдение и контроль среды",
+                    "parentId": "6b582abf-9914-46eb-9d82-598ac6211a2e"
+                },
+                {
+                    "sortIndex": 2,
+                    "children": [],
+                    "id": 2512,
+                    "guid": "d9d086f7-56ba-4bae-b763-0f7eaacee671",
+                    "name": "Датчики и аксессуары",
+                    "parentId": "6b582abf-9914-46eb-9d82-598ac6211a2e"
+                },
+                {
+                    "sortIndex": 4,
+                    "children": [],
+                    "id": 6198,
+                    "guid": "135cd6de-9027-41d4-8c6b-c6ef907e540e",
+                    "name": "Продукты сетевой безопасности (IPS)",
+                    "parentId": "6b582abf-9914-46eb-9d82-598ac6211a2e"
+                },
+                {
+                    "sortIndex": 5,
+                    "children": [],
+                    "id": 183266,
+                    "guid": "cb8516bd-4098-43ce-9870-2ec228786e77",
+                    "name": "СКУД",
+                    "parentId": "6b582abf-9914-46eb-9d82-598ac6211a2e"
+                }
+            ],
+            "id": 2096,
+            "guid": "6b582abf-9914-46eb-9d82-598ac6211a2e",
+            "name": "Средства контроля и безопасности",
+            "parentId": "04030ab1-678b-457d-8976-ac7297c65ce6"
+        },
+        {
+            "sortIndex": 18,
+            "children": [
+                {
+                    "sortIndex": 13,
+                    "children": [
+                        {
+                            "sortIndex": 6,
+                            "children": [],
+                            "id": 99415,
+                            "guid": "a618e944-fe1f-447c-a3bf-ee5e478a18b8",
+                            "name": "Secret Net Studio",
+                            "parentId": "1b807f7e-c2f0-4d32-bebb-50bcf2a31e13"
+                        }
+                    ],
+                    "id": 45233,
+                    "guid": "1b807f7e-c2f0-4d32-bebb-50bcf2a31e13",
+                    "name": "Код Безопасности",
+                    "parentId": "fd59f7c9-a4e4-41d5-a4f1-1d9aabf0eec5"
+                },
+                {
+                    "sortIndex": 15,
+                    "children": [
+                        {
+                            "sortIndex": 1,
+                            "children": [],
+                            "id": 185864,
+                            "guid": "826118ba-d4c4-43c2-8251-b4a8ccace717",
+                            "name": "Рутокен Light",
+                            "parentId": "c9ac2c61-f51a-4945-bf01-31716b3e2383"
+                        },
+                        {
+                            "sortIndex": 6,
+                            "children": [],
+                            "id": 206068,
+                            "guid": "ec1633fd-ae1a-4b4f-99fb-421fdb7ef909",
+                            "name": "Рутокен ЭЦП 3.0",
+                            "parentId": "c9ac2c61-f51a-4945-bf01-31716b3e2383"
+                        }
+                    ],
+                    "id": 185863,
+                    "guid": "c9ac2c61-f51a-4945-bf01-31716b3e2383",
+                    "name": "Рутокен",
+                    "parentId": "fd59f7c9-a4e4-41d5-a4f1-1d9aabf0eec5"
+                },
+                {
+                    "sortIndex": 16,
+                    "children": [],
+                    "id": 205458,
+                    "guid": "52d6779c-5990-4d38-81fe-8cda4c359b86",
+                    "name": "Аладдин Р.Д.",
+                    "parentId": "fd59f7c9-a4e4-41d5-a4f1-1d9aabf0eec5"
+                },
+                {
+                    "sortIndex": 17,
+                    "children": [],
+                    "id": 212757,
+                    "guid": "9bba2c54-4e31-43cc-b0e5-a6428998e9c8",
+                    "name": "Прочее",
+                    "parentId": "fd59f7c9-a4e4-41d5-a4f1-1d9aabf0eec5"
+                }
+            ],
+            "id": 45143,
+            "guid": "fd59f7c9-a4e4-41d5-a4f1-1d9aabf0eec5",
+            "name": "Информационная безопасность",
+            "parentId": "04030ab1-678b-457d-8976-ac7297c65ce6"
+        },
+        {
+            "sortIndex": 19,
+            "children": [
+                {
+                    "sortIndex": 1,
+                    "children": [],
+                    "id": 29224,
+                    "guid": "16d8d98b-a159-46d5-950a-e65f81e2c7d1",
+                    "name": "Кассовые терминалы (POS)",
+                    "parentId": "23735982-01fa-45e9-9781-501a7cbe745e"
+                },
+                {
+                    "sortIndex": 3,
+                    "children": [],
+                    "id": 110800,
+                    "guid": "a6e142cb-6366-4aee-b3d6-b8abe977ae8a",
+                    "name": "Микрокиоски и Прайсчеккеры",
+                    "parentId": "23735982-01fa-45e9-9781-501a7cbe745e"
+                },
+                {
+                    "sortIndex": 4,
+                    "children": [],
+                    "id": 115280,
+                    "guid": "7159e1ae-c5de-4fcc-8bb1-b259e782c9a1",
+                    "name": "Принтеры этикеток мобильные и ручные",
+                    "parentId": "23735982-01fa-45e9-9781-501a7cbe745e"
+                },
+                {
+                    "sortIndex": 5,
+                    "children": [],
+                    "id": 110320,
+                    "guid": "77d30411-12e9-40b7-afbf-611201d80e16",
+                    "name": "Принтеры этикеток индустриального класса",
+                    "parentId": "23735982-01fa-45e9-9781-501a7cbe745e"
+                },
+                {
+                    "sortIndex": 6,
+                    "children": [],
+                    "id": 110319,
+                    "guid": "95ad8c05-293f-4719-837e-ca403a725c48",
+                    "name": "Принтеры этикеток настольные",
+                    "parentId": "23735982-01fa-45e9-9781-501a7cbe745e"
+                },
+                {
+                    "sortIndex": 7,
+                    "children": [],
+                    "id": 145486,
+                    "guid": "890c0c18-b357-4662-8aba-211f072c2bbe",
+                    "name": "Принтеры печати на пластиковых картах",
+                    "parentId": "23735982-01fa-45e9-9781-501a7cbe745e"
+                },
+                {
+                    "sortIndex": 8,
+                    "children": [],
+                    "id": 110799,
+                    "guid": "6ddb6983-5d5a-4e30-944a-e5a5a94ad311",
+                    "name": "Терминалы сбора данных и планшетные компьютеры",
+                    "parentId": "23735982-01fa-45e9-9781-501a7cbe745e"
+                },
+                {
+                    "sortIndex": 9,
+                    "children": [],
+                    "id": 110318,
+                    "guid": "c9156e90-47ee-44e3-bb58-bb505684154c",
+                    "name": "Сканеры штрихового кода для промышленности",
+                    "parentId": "23735982-01fa-45e9-9781-501a7cbe745e"
+                },
+                {
+                    "sortIndex": 10,
+                    "children": [],
+                    "id": 110317,
+                    "guid": "d7efd03a-fa7f-470c-9b00-482ffeb0a369",
+                    "name": "Сканеры штрихового кода общего назначения",
+                    "parentId": "23735982-01fa-45e9-9781-501a7cbe745e"
+                },
+                {
+                    "sortIndex": 11,
+                    "children": [],
+                    "id": 111126,
+                    "guid": "d6746aea-934c-4a9b-988f-4162d5bf827f",
+                    "name": "Опции для принтеров этикеток, сканеров штрихкода и терминалов сбора данных",
+                    "parentId": "23735982-01fa-45e9-9781-501a7cbe745e"
+                },
+                {
+                    "sortIndex": 12,
+                    "children": [],
+                    "id": 111699,
+                    "guid": "c1e9d21d-ef45-4386-8c83-cd61d13641ab",
+                    "name": "Чековые принтеры и Фискальные регистраторы",
+                    "parentId": "23735982-01fa-45e9-9781-501a7cbe745e"
+                },
+                {
+                    "sortIndex": 13,
+                    "children": [],
+                    "id": 111127,
+                    "guid": "ce04751d-567a-480a-92ec-60b5cca515ba",
+                    "name": "Этикетки, Риббоны и Браслеты",
+                    "parentId": "23735982-01fa-45e9-9781-501a7cbe745e"
+                }
+            ],
+            "id": 110316,
+            "guid": "23735982-01fa-45e9-9781-501a7cbe745e",
+            "name": "Автоматическая идентификация, маркировка, торговое оборудование",
+            "parentId": "04030ab1-678b-457d-8976-ac7297c65ce6"
+        },
+        {
+            "sortIndex": 20,
+            "children": [],
+            "id": 5113,
+            "guid": "6822a1de-e47f-4a95-aa87-00d251b55799",
+            "name": "Программы расширения гарантии",
+            "parentId": "04030ab1-678b-457d-8976-ac7297c65ce6"
+        },
+        {
+            "sortIndex": 22,
+            "children": [],
+            "id": 174288,
+            "guid": "acf61ea3-7848-4c6e-a4bc-f9ff0e92348e",
+            "name": "Электрика",
+            "parentId": "04030ab1-678b-457d-8976-ac7297c65ce6"
+        },
+        {
+            "sortIndex": 24,
+            "children": [
+                {
+                    "sortIndex": 1,
+                    "children": [],
+                    "id": 19151,
+                    "guid": "e2895cab-1cfb-46cd-a438-2c9f6e913024",
+                    "name": "IP телефоны SIP/H.323",
+                    "parentId": "443cbeb2-8093-49b3-80e5-004011811f59"
+                },
+                {
+                    "sortIndex": 2,
+                    "children": [],
+                    "id": 12345,
+                    "guid": "e95e8c8d-6d78-41ef-ab0c-1047b40ff2ba",
+                    "name": "Проводные телефоны",
+                    "parentId": "443cbeb2-8093-49b3-80e5-004011811f59"
+                },
+                {
+                    "sortIndex": 3,
+                    "children": [],
+                    "id": 8765,
+                    "guid": "898837e0-4707-4495-ac85-73da648909bb",
+                    "name": "Радиотелефоны",
+                    "parentId": "443cbeb2-8093-49b3-80e5-004011811f59"
+                },
+                {
+                    "sortIndex": 6,
+                    "children": [],
+                    "id": 23057,
+                    "guid": "77353f49-9c82-4222-ae01-ebb3421f0535",
+                    "name": "АТС",
+                    "parentId": "443cbeb2-8093-49b3-80e5-004011811f59"
+                },
+                {
+                    "sortIndex": 7,
+                    "children": [],
+                    "id": 24920,
+                    "guid": "293b506c-6184-472f-84a2-664302aadaf8",
+                    "name": "Опции для АТС",
+                    "parentId": "443cbeb2-8093-49b3-80e5-004011811f59"
+                },
+                {
+                    "sortIndex": 8,
+                    "children": [],
+                    "id": 1277,
+                    "guid": "32ce6f2f-5c35-44de-9134-d770702c3469",
+                    "name": "Опции для радиотелефонов",
+                    "parentId": "443cbeb2-8093-49b3-80e5-004011811f59"
+                },
+                {
+                    "sortIndex": 10,
+                    "children": [],
+                    "id": 18875,
+                    "guid": "0d0a2968-3e36-470c-a168-6b32056d4c5a",
+                    "name": "Опции к IP телефонам SIP/H.323",
+                    "parentId": "443cbeb2-8093-49b3-80e5-004011811f59"
+                }
+            ],
+            "id": 9426,
+            "guid": "443cbeb2-8093-49b3-80e5-004011811f59",
+            "name": "Телефония",
+            "parentId": "04030ab1-678b-457d-8976-ac7297c65ce6"
+        },
+        {
+            "sortIndex": 25,
+            "children": [
+                {
+                    "sortIndex": 1,
+                    "children": [],
+                    "id": 185223,
+                    "guid": "a8663a66-74c8-4c9b-b40e-2d0cc748f7f7",
+                    "name": "Запчасти для ПК HP",
+                    "parentId": "f933ddee-3bea-449d-ab68-3a399433c401"
+                },
+                {
+                    "sortIndex": 2,
+                    "children": [],
+                    "id": 185224,
+                    "guid": "0c004638-e5bc-42b8-9c43-e474f2195a52",
+                    "name": "Запчасти для печатной техники HP",
+                    "parentId": "f933ddee-3bea-449d-ab68-3a399433c401"
+                },
+                {
+                    "sortIndex": 3,
+                    "children": [],
+                    "id": 198734,
+                    "guid": "637cd21e-570e-4a33-a0fb-ccabddd8fb99",
+                    "name": "Запчасти для печатной техники",
+                    "parentId": "f933ddee-3bea-449d-ab68-3a399433c401"
+                },
+                {
+                    "sortIndex": 4,
+                    "children": [],
+                    "id": 230731,
+                    "guid": "27d9b184-1545-4a6b-879b-2f2717a6d01c",
+                    "name": "Запчасти для оборудования",
+                    "parentId": "f933ddee-3bea-449d-ab68-3a399433c401"
+                }
+            ],
+            "id": 115874,
+            "guid": "f933ddee-3bea-449d-ab68-3a399433c401",
+            "name": "Запчасти для оборудования",
+            "parentId": "04030ab1-678b-457d-8976-ac7297c65ce6"
+        },
+        {
+            "sortIndex": 26,
+            "children": [
+                {
+                    "sortIndex": 1,
+                    "children": [],
+                    "id": 152530,
+                    "guid": "7c0b25ea-a128-4d4d-bab4-8abfc4841792",
+                    "name": "Кресла для геймеров",
+                    "parentId": "8d6769c0-d75d-4e4b-9744-8cda2c79846c"
+                },
+                {
+                    "sortIndex": 2,
+                    "children": [],
+                    "id": 152531,
+                    "guid": "848b62e5-7b43-41d1-b540-875578b126e6",
+                    "name": "Офисные кресла",
+                    "parentId": "8d6769c0-d75d-4e4b-9744-8cda2c79846c"
+                }
+            ],
+            "id": 114985,
+            "guid": "8d6769c0-d75d-4e4b-9744-8cda2c79846c",
+            "name": "Кресла",
+            "parentId": "04030ab1-678b-457d-8976-ac7297c65ce6"
+        },
+        {
+            "sortIndex": 27,
+            "children": [],
+            "id": 23679,
+            "guid": "cad4e58e-fb0d-4255-89f4-2940c10bfe49",
+            "name": "Товары после ремонта",
+            "parentId": "04030ab1-678b-457d-8976-ac7297c65ce6"
+        },
+        {
+            "sortIndex": 33,
+            "children": [
+                {
+                    "sortIndex": 2,
+                    "children": [],
+                    "id": 196441,
+                    "guid": "e042b3e2-0e00-428d-9a6e-7feb24f1d653",
+                    "name": "Управление умным домом",
+                    "parentId": "9115b358-aa27-4629-85c4-24735c3ae87e"
+                },
+                {
+                    "sortIndex": 3,
+                    "children": [],
+                    "id": 196440,
+                    "guid": "03b1db53-8f92-45d1-a1c2-3298169083d0",
+                    "name": "Датчики умного дома",
+                    "parentId": "9115b358-aa27-4629-85c4-24735c3ae87e"
+                }
+            ],
+            "id": 193743,
+            "guid": "9115b358-aa27-4629-85c4-24735c3ae87e",
+            "name": "Умный дом",
+            "parentId": "04030ab1-678b-457d-8976-ac7297c65ce6"
+        },
+        {
+            "sortIndex": 34,
+            "children": [
+                {
+                    "sortIndex": 1,
+                    "children": [],
+                    "id": 196783,
+                    "guid": "6b771098-6215-4161-9d2c-869eb34dd216",
+                    "name": "Роботы-пылесосы",
+                    "parentId": "9a45eb8f-94f0-4cb3-88e4-ed57ac630cae"
+                },
+                {
+                    "sortIndex": 2,
+                    "children": [],
+                    "id": 212543,
+                    "guid": "3514a3ad-c792-4f9e-a8a5-53bccbca3d2f",
+                    "name": "Вертикальные пылесосы",
+                    "parentId": "9a45eb8f-94f0-4cb3-88e4-ed57ac630cae"
+                }
+            ],
+            "id": 196782,
+            "guid": "9a45eb8f-94f0-4cb3-88e4-ed57ac630cae",
+            "name": "Малая бытовая техника",
+            "parentId": "04030ab1-678b-457d-8976-ac7297c65ce6"
+        }
+    ]
+}

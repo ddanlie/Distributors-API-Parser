@@ -1,0 +1,3 @@
+# URL: dialect+driver://username:password@host:port/database
+FROM postgres:17-alpine
+COPY init.sql /docker-entrypoint-initdb.d/

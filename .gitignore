@@ -1,8 +1,12 @@
 # IDE
 *.egg-info/
 
+## my custom file
+*.ans
+
 # VS Code
 .vscode/
+**/*.vscode/
 # PyCharm / IntelliJ IDEA
 .idea/
 # JetBrains IDE logs
@@ -12,6 +16,14 @@
 
 # Node
 node_modules/
+
+# Testing text files
+parser_tests/queries/**/*.txt
+
+# Databases
+**/*.csv
+**/*.db
+**/*.sqlite
 
 
 # Byte-compiled / optimized / DLL files
@@ -73,6 +85,7 @@ cover/
 
 # Django stuff:
 *.log
+**/*.log
 local_settings.py
 db.sqlite3
 db.sqlite3-journal
@@ -152,11 +165,12 @@ celerybeat.pid
 
 # Environments
 .env
+.env*
 .envrc
 .venv
-env/
-venv/
-ENV/
+# env/
+# venv/
+# ENV/
 env.bak/
 venv.bak/
 

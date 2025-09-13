@@ -1,21 +1,35 @@
+<!-- ATTENTION!
+THIS FILE SERVER AS AN ENTRYPOINT ONLY
+POST REQUEST to /api/ IS REAL START POINT FOR THIS APP
+THE REASON OF IT BEING HERE - VITE IS SERVING SPA PAGES BY DEFAULT
+AND THIS SOLUTION IS MADE TO ROUTE US TO THE REAL ENDPOINT -->
+
+
+
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>DistribAPI</title>
-    <link rel="stylesheet" href="public/styles/index.css">
-    <!-- <link rel="icon" href="./favicon.ico" type="image/x-icon"> -->
-  </head>
-  <body>
-    <main>
-        <h1 class="bg-blue-50">Hello, World!</h1>
-    </main>
-    <script src="public/scripts/index.js"></script>
-  </body>
+<head>
+  <meta charset="UTF-8">
+  <title>Auto POST Example</title>
+</head>
+<body>
+  <h1>Loading...</h1>
+
+  <script>
+    fetch('/parser', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ key: 'value' })
+    })
+    .then(response => response.text())
+    .then(html => {
+      document.open();
+      document.write(html);
+      document.close();
+    })
+    .catch(err => {
+      document.body.innerHTML = '<h2>Request failed</h2><pre>' + err + '</pre>';
+    });
+  </script>
+</body>
 </html>
-
-    
-
-

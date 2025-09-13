@@ -1,0 +1,10 @@
+import os
+
+from pydantic import SecretStr
+
+API_CLIENT_NAME = "ocs"
+CONNECTOR_URL_OCS = os.getenv("CONNECTOR_URL_OCS")
+CONNECTOR_KEY_OCS = SecretStr(os.getenv("CONNECTOR_KEY_OCS") or "")
+
+OCS_API_REQUEST_PERIOD_SECONDS = 1
+CONTENTS_BATCH_MAX_SIZE = 2500

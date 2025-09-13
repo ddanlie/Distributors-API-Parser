@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>DistribAPI</title>
+    <link rel="stylesheet" href="public/styles/index.css">
+    <!-- <link rel="icon" href="./favicon.ico" type="image/x-icon"> -->
+  </head>
+  <body>
+    <main class="flex flex-col items-center space-y-6 pt-50">
+        <div class="flex flex-col gap-1 items-center">
+          <h1 class="font-medium text-4xl">API parser</h1>
+          <h1 class="font-light text-gray-400">by Danil Domrachev</h1>
+        </div>
+        <div class="h-32"></div>
+        <div class="flex flex-col items-center gap-3">
+          <div class="flex flex-col items-center">
+            <h1 class="text-xl">Search For Items</h1>
+            <h1 class="text-sm text-gray-400">enter keywords separated by spaces</h1>
+          </div> 
+          <div>
+            <form id="myForm"  class="flex flex-col items-center gap-6">
+              <span class=" flex justify-around gap-2 px-4 border rounded-[3px]">
+                <input name="query_string" class="focus:outline-none focus:ring-0 focus:border-0 py-1"/>
+              </span>
+            
+            <button id="submitBtn" type="submit" class="hover:outline-[1.5px] px-4 py-1 rounded-[3px] focus:bg-amber-50">
+
+              <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-search-icon lucide-search"><path d="m21 21-4.34-4.34"/><circle cx="11" cy="11" r="8"/></svg>
+
+            </button>
+            </form>
+          </div>
+        </div>
+    </main>
+    <script>
+      const form = document.getElementById('myForm');
+      const btn = document.getElementById('submitBtn');
+      
+      form.addEventListener('submit', async (e) => {
+        e.preventDefault();
+        btn.disabled = true;
+        try {
+          const data = Object.fromEntries(new FormData(form));
+          const res = await fetch('/parser/search_results', {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify(data),
+          });
+
+          const html = await res.text();
+
+          document.open();
+          document.write(html);
+          document.close();
+
+        } finally {
+          btn.disabled = false;
+        }
+      });
+
+    </script>
+  </body>
+  </html>
+  
+  
+  
+  
+  <!-- <form id="myForm">
+  <button type="submit" id="submitBtn">Submit</button>
+</form>
+
+<script>
+  const form = document.getElementById('myForm');
+  const btn = document.getElementById('submitBtn');
+  
+  form.addEventListener('submit', async (e) => {
+    e.preventDefault();
+    btn.disabled = true;
+    try {
+      await fetch('/your/api', { method: 'POST', body: new FormData(form) });
+    } finally {
+      btn.disabled = false;
+    }
+  });
+</script> -->
+
+<!-- <main class="flex justify-center space-y-6">
+    <h1>Welcome!</h1>
+    <form action="/distributors/names" method="get">
+      <button type="submit">Get distributors</button>
+    </form>
+    <div>
+      Names:
+      <ul>
+        {% for n in names %}
+          <li>{{ n }}</li>
+        {% endfor %}
+      </ul>
+    </div>
+    <form action="/distributors/category" method="get">
+      <h2>Distributor name</h2>
+      <input type="text" name="distributor_name"/>
+      <button type="submit">Get categories</button>
+    </form>
+    <div>
+      Categories:
+      <ul>
+        {% for cat in categories %}
+          <li>{{ cat.name }}</li>
+        {% endfor %}
+      </ul>
+    </div>
+</main> -->

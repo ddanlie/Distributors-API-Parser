@@ -1,0 +1,45 @@
+@import "tailwindcss";
+
+@theme {
+  --font-itbs-default: "Inter", sans-seri, system-ui, sans-serif;
+
+  --color-itbs-dark-red    : #C4493F;
+  --color-itbs-light-red   : #F49084;
+  --color-itbs-dark-orange : #F5914A;
+  --color-itbs-light-orange: #FBD19A;
+  --color-itbs-dark-blue   : #40829B;
+  --color-itbs-light-blue  : #80C3DC;
+  --color-itbs-dark-black  : #38373A;
+  --color-itbs-light-black : #889099;
+  --color-itbs-light-gray  : #B2B2B2;
+  --color-itbs-white-blue  : #EAF3FD;
+  --color-itbs-dirty-white : #D9D9D9;
+
+  --text-itbs-title-small           : 24px;
+  --text-itbs-subtitle-small        : 20px;
+  --text-itbs-usual-text-small      : 16px;
+  /* --text-itbs-usual-text-bold-small : 16px / 1.5; - use font-itbs-bold*/ 
+  --text-itbs-annotation-small      : 12px;
+  /* --text-itbs-annotation-light-small: 12px / 1.5; - use font-itbs-light*/
+
+  --font-weight-itbs-bold: 700;
+  --font-weight-itbs-light: 200;
+}
+
+/* Global h1 */
+@layer base {
+  
+  html, body, #root {
+    height: 100vh;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    overflow: auto;
+  }
+  h1 { all: unset; @apply font-itbs-default; }
+  select { all: unset; }
+}
+@layer utilities{
+  .scrollbar-none{ -ms-overflow-style:none; scrollbar-width:none; }
+  .scrollbar-none::-webkit-scrollbar{ display:none; }
+}

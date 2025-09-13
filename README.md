@@ -23,6 +23,15 @@
 - Run the project: `make dev`
 - Build the project: `make build`
 
+
+### Where to start from?
+
+- Check architecture diagram
+- `parser/core/endpoints.py` serves as entrypoint for users
+- `endpoints.py` uses `parser/core/exec_manager.py` and its only public instance available
+- We can also use `exec_manager` bypassing endpoints requests from `admin_service` folder
+- General hierarchy: `main`->`core.endpoints`->`exec_manager`->`other "internal use" stuff`
+
 ### Docker dev (not ready):
 
 1. Install `python` and `uv` (see **Local dev** above) for IDE syntax highlighting

@@ -1,0 +1,2053 @@
+[
+    {
+        "category": "V01",
+        "name": "Apple",
+        "children": [
+            {
+                "category": "V0100",
+                "name": "Mac",
+                "children": [
+                    {
+                        "category": "V010000",
+                        "name": "MacBook",
+                        "children": []
+                    },
+                    {
+                        "category": "V010001",
+                        "name": "iMac",
+                        "children": []
+                    },
+                    {
+                        "category": "V010002",
+                        "name": "Mac",
+                        "children": []
+                    },
+                    {
+                        "category": "V010003",
+                        "name": "Мониторы",
+                        "children": []
+                    },
+                    {
+                        "category": "V010004",
+                        "name": "Компоненты",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "category": "V0104",
+                "name": "iPad",
+                "children": []
+            },
+            {
+                "category": "V0109",
+                "name": "iPhone",
+                "children": []
+            },
+            {
+                "category": "V0108",
+                "name": "TV",
+                "children": []
+            },
+            {
+                "category": "V0106",
+                "name": "Music",
+                "children": [
+                    {
+                        "category": "V010600",
+                        "name": "iPod",
+                        "children": []
+                    },
+                    {
+                        "category": "V010601",
+                        "name": "Наушники",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "category": "V0110",
+                "name": "Очень нужные товары",
+                "children": []
+            },
+            {
+                "category": "V0150",
+                "name": "Аксессуары для Apple",
+                "children": [
+                    {
+                        "category": "V015001",
+                        "name": "Переходники и кабели",
+                        "children": []
+                    },
+                    {
+                        "category": "V015002",
+                        "name": "Адаптеры питания",
+                        "children": []
+                    },
+                    {
+                        "category": "V015003",
+                        "name": "Чехлы",
+                        "children": []
+                    },
+                    {
+                        "category": "V015004",
+                        "name": "Устройства ввода",
+                        "children": []
+                    },
+                    {
+                        "category": "V015050",
+                        "name": "Прочее",
+                        "children": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "category": "V03",
+        "name": "Компьютеры, ноутбуки, планшеты",
+        "children": [
+            {
+                "category": "V0308",
+                "name": "Моноблоки",
+                "children": []
+            },
+            {
+                "category": "V0309",
+                "name": "Системные блоки и рабочие станции",
+                "children": []
+            },
+            {
+                "category": "V0300",
+                "name": "Ноутбуки",
+                "children": []
+            },
+            {
+                "category": "V0301",
+                "name": "Специальные ноутбуки",
+                "children": [
+                    {
+                        "category": "V030100",
+                        "name": "Защищенные ноутбуки",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "category": "V0302",
+                "name": "Аксессуары для ноутбуков",
+                "children": [
+                    {
+                        "category": "V030200",
+                        "name": "Док-станции для ноутбуков",
+                        "children": []
+                    },
+                    {
+                        "category": "V030201",
+                        "name": "Блоки питания для ноутбуков",
+                        "children": []
+                    },
+                    {
+                        "category": "V030202",
+                        "name": "Батареи для ноутбуков",
+                        "children": []
+                    },
+                    {
+                        "category": "V030204",
+                        "name": "Сумки для ноутбуков",
+                        "children": []
+                    },
+                    {
+                        "category": "V030208",
+                        "name": "Подставки и крепления для ноутбуков",
+                        "children": []
+                    },
+                    {
+                        "category": "V030250",
+                        "name": "Прочее для ноутбуков",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "category": "V0303",
+                "name": "Планшеты",
+                "children": []
+            },
+            {
+                "category": "V0304",
+                "name": "Специальные планшеты",
+                "children": [
+                    {
+                        "category": "V030400",
+                        "name": "Защищенные планшеты",
+                        "children": []
+                    },
+                    {
+                        "category": "V030401",
+                        "name": "Графические планшеты",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "category": "V0305",
+                "name": "Смартфоны",
+                "children": []
+            },
+            {
+                "category": "V0306",
+                "name": "Специальные смартфоны",
+                "children": []
+            },
+            {
+                "category": "V0307",
+                "name": "Аксессуары для планшетов и смартфонов",
+                "children": [
+                    {
+                        "category": "V030700",
+                        "name": "Стилусы",
+                        "children": []
+                    },
+                    {
+                        "category": "V030701",
+                        "name": "Переносные зарядные устройства (powerbank)",
+                        "children": []
+                    },
+                    {
+                        "category": "V030702",
+                        "name": "Автомобильные зарядные устройства",
+                        "children": []
+                    },
+                    {
+                        "category": "V030703",
+                        "name": "Зарядные устройства 220В и аналогичные",
+                        "children": []
+                    },
+                    {
+                        "category": "V030704",
+                        "name": "Чехлы и защитные пленки для гаджетов",
+                        "children": []
+                    },
+                    {
+                        "category": "V030750",
+                        "name": "Прочие аксессуары для гаджетов",
+                        "children": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "category": "V02",
+        "name": "Комплектующие для ПК",
+        "children": [
+            {
+                "category": "V0202",
+                "name": "Платформы для ПК",
+                "children": []
+            },
+            {
+                "category": "V0203",
+                "name": "Корпуса",
+                "children": []
+            },
+            {
+                "category": "V0216",
+                "name": "Аксессуары для корпусов",
+                "children": []
+            },
+            {
+                "category": "V0204",
+                "name": "Материнские платы",
+                "children": []
+            },
+            {
+                "category": "V0205",
+                "name": "Процессоры",
+                "children": []
+            },
+            {
+                "category": "V0206",
+                "name": "Оперативная память",
+                "children": []
+            },
+            {
+                "category": "V0207",
+                "name": "Системы охлаждения для ПК",
+                "children": [
+                    {
+                        "category": "V020700",
+                        "name": "Воздушное охлаждение для процессоров",
+                        "children": []
+                    },
+                    {
+                        "category": "V020701",
+                        "name": "Воздушное охлаждение для корпусов",
+                        "children": []
+                    },
+                    {
+                        "category": "V020702",
+                        "name": "Системы жидкостного охлаждения «всё-в-одном»",
+                        "children": []
+                    },
+                    {
+                        "category": "V020704",
+                        "name": "Термоинтерфейсы",
+                        "children": []
+                    },
+                    {
+                        "category": "V020750",
+                        "name": "Аксессуары для систем охлаждения",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "category": "V0208",
+                "name": "Видеокарты",
+                "children": []
+            },
+            {
+                "category": "V0209",
+                "name": "Накопители информации",
+                "children": [
+                    {
+                        "category": "V020901",
+                        "name": "Твердотельные накопители",
+                        "children": []
+                    },
+                    {
+                        "category": "V020900",
+                        "name": "Жёсткие диски",
+                        "children": []
+                    },
+                    {
+                        "category": "V020902",
+                        "name": "Аксессуары для накопителей информации",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "category": "V0212",
+                "name": "Оптические приводы",
+                "children": []
+            },
+            {
+                "category": "V0213",
+                "name": "Блоки питания",
+                "children": []
+            },
+            {
+                "category": "V0214",
+                "name": "Платы расширения для ПК",
+                "children": []
+            },
+            {
+                "category": "V0215",
+                "name": "Прочие комплектующие",
+                "children": []
+            }
+        ]
+    },
+    {
+        "category": "V04",
+        "name": "Системы бесперебойного электропитания",
+        "children": [
+            {
+                "category": "V0400",
+                "name": "Источники бесперебойного питания",
+                "children": []
+            },
+            {
+                "category": "V0401",
+                "name": "Комплексные решения бесперебойного питания",
+                "children": []
+            },
+            {
+                "category": "V0402",
+                "name": "Стабилизаторы",
+                "children": []
+            },
+            {
+                "category": "V0403",
+                "name": "Сетевые фильтры",
+                "children": []
+            },
+            {
+                "category": "V0404",
+                "name": "Заменяемые комплекты батарей",
+                "children": []
+            },
+            {
+                "category": "V0405",
+                "name": "Блоки распределения питания (PDU)",
+                "children": []
+            },
+            {
+                "category": "V0450",
+                "name": "Аксессуары для источников бесперебойного питания",
+                "children": []
+            }
+        ]
+    },
+    {
+        "category": "V05",
+        "name": "Периферия и оргтехника",
+        "children": [
+            {
+                "category": "V0500",
+                "name": "Мониторы и профессиональные дисплеи",
+                "children": [
+                    {
+                        "category": "V050000",
+                        "name": "Мониторы",
+                        "children": []
+                    },
+                    {
+                        "category": "V050001",
+                        "name": "Профессиональные дисплеи",
+                        "children": []
+                    },
+                    {
+                        "category": "V050002",
+                        "name": "Светодиодные стены",
+                        "children": []
+                    },
+                    {
+                        "category": "V050050",
+                        "name": "Аксессуары для мониторов, дисплеев и стен",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "category": "V0501",
+                "name": "Принтеры",
+                "children": [
+                    {
+                        "category": "V050100",
+                        "name": "Принтеры лазерные",
+                        "children": []
+                    },
+                    {
+                        "category": "V050101",
+                        "name": "Принтеры струйные",
+                        "children": []
+                    },
+                    {
+                        "category": "V050102",
+                        "name": "Принтеры матричные",
+                        "children": []
+                    },
+                    {
+                        "category": "V050104",
+                        "name": "Принтеры 3D",
+                        "children": []
+                    },
+                    {
+                        "category": "V050150",
+                        "name": "Запчасти для принтеров",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "category": "V0502",
+                "name": "МФУ",
+                "children": [
+                    {
+                        "category": "V050200",
+                        "name": "МФУ лазерные",
+                        "children": []
+                    },
+                    {
+                        "category": "V050201",
+                        "name": "МФУ струйные",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "category": "V0503",
+                "name": "Сканеры и копировальные аппараты",
+                "children": [
+                    {
+                        "category": "V050300",
+                        "name": "Копировальные аппараты",
+                        "children": []
+                    },
+                    {
+                        "category": "V050301",
+                        "name": "Документ-сканеры",
+                        "children": []
+                    },
+                    {
+                        "category": "V050302",
+                        "name": "Планшетные сканеры",
+                        "children": []
+                    },
+                    {
+                        "category": "V050350",
+                        "name": "Опции и расходные материалы для сканеров",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "category": "V0504",
+                "name": "Широкоформатные системы печати",
+                "children": [
+                    {
+                        "category": "V050400",
+                        "name": "Ш/ф плоттеры струйные",
+                        "children": []
+                    },
+                    {
+                        "category": "V050401",
+                        "name": "Ш/ф плоттеры лазерные",
+                        "children": []
+                    },
+                    {
+                        "category": "V050402",
+                        "name": "Ш/ф сканеры",
+                        "children": []
+                    },
+                    {
+                        "category": "V050403",
+                        "name": "Ш/ф инженерные системы (МФУ)",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "category": "V0517",
+                "name": "Постпечатное оборудование",
+                "children": [
+                    {
+                        "category": "V051700",
+                        "name": "Ламинаторы",
+                        "children": []
+                    },
+                    {
+                        "category": "V051701",
+                        "name": "Фолдеры (фальцовщики)",
+                        "children": []
+                    },
+                    {
+                        "category": "V051702",
+                        "name": "Переплётчики",
+                        "children": []
+                    },
+                    {
+                        "category": "V051703",
+                        "name": "Резаки",
+                        "children": []
+                    },
+                    {
+                        "category": "V051704",
+                        "name": "Уничтожители бумаг (шредеры)",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "category": "V0505",
+                "name": "Специальное оборудование для печати",
+                "children": [
+                    {
+                        "category": "V050502",
+                        "name": "Решения для ограничения доступа к печати",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "category": "V0506",
+                "name": "AutoIDC и электронное торговое оборудование",
+                "children": [
+                    {
+                        "category": "V050600",
+                        "name": "Принтеры для этикеток",
+                        "children": []
+                    },
+                    {
+                        "category": "V050607",
+                        "name": "Принтеры для пластиковых карт",
+                        "children": []
+                    },
+                    {
+                        "category": "V050608",
+                        "name": "Расходные материалы для оборудования AutoIDC",
+                        "children": []
+                    },
+                    {
+                        "category": "V050650",
+                        "name": "Аксессуары для оборудования AutoIDC",
+                        "children": []
+                    },
+                    {
+                        "category": "V050601",
+                        "name": "Сканеры штрих-кодов",
+                        "children": []
+                    },
+                    {
+                        "category": "V050602",
+                        "name": "Терминалы сбора данных",
+                        "children": []
+                    },
+                    {
+                        "category": "V050604",
+                        "name": "RFID-считыватели",
+                        "children": []
+                    },
+                    {
+                        "category": "V050606",
+                        "name": "Сенсорные панели и мониторы",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "category": "V0507",
+                "name": "Проекторы и интерактивные доски",
+                "children": [
+                    {
+                        "category": "V050700",
+                        "name": "Проекторы",
+                        "children": []
+                    },
+                    {
+                        "category": "V050701",
+                        "name": "Экраны для проекторов",
+                        "children": []
+                    },
+                    {
+                        "category": "V050750",
+                        "name": "Аксессуары для проекторов",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "category": "V0508",
+                "name": "Гарнитуры, наушники и микрофоны",
+                "children": [
+                    {
+                        "category": "V050800",
+                        "name": "Гарнитуры",
+                        "children": []
+                    },
+                    {
+                        "category": "V050801",
+                        "name": "Наушники",
+                        "children": []
+                    },
+                    {
+                        "category": "V050802",
+                        "name": "Микрофоны",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "category": "V0509",
+                "name": "Клавиатуры, мыши и манипуляторы",
+                "children": [
+                    {
+                        "category": "V050900",
+                        "name": "Клавиатуры",
+                        "children": []
+                    },
+                    {
+                        "category": "V050901",
+                        "name": "Мыши",
+                        "children": []
+                    },
+                    {
+                        "category": "V050902",
+                        "name": "Комплекты клавиатура+мышь",
+                        "children": []
+                    },
+                    {
+                        "category": "V050907",
+                        "name": "Презентеры",
+                        "children": []
+                    },
+                    {
+                        "category": "V050903",
+                        "name": "Геймпады",
+                        "children": []
+                    },
+                    {
+                        "category": "V050904",
+                        "name": "Рули",
+                        "children": []
+                    },
+                    {
+                        "category": "V050905",
+                        "name": "Авиасимуляторы",
+                        "children": []
+                    },
+                    {
+                        "category": "V050906",
+                        "name": "Коврики для мыши",
+                        "children": []
+                    },
+                    {
+                        "category": "V050950",
+                        "name": "Аксессуары",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "category": "V0510",
+                "name": "Акустические системы",
+                "children": [
+                    {
+                        "category": "V051000",
+                        "name": "Портативные акустические системы",
+                        "children": []
+                    },
+                    {
+                        "category": "V051001",
+                        "name": "Компьютерные акустические системы",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "category": "V0511",
+                "name": "Веб-камеры",
+                "children": []
+            },
+            {
+                "category": "V0512",
+                "name": "Кабели и переходники",
+                "children": [
+                    {
+                        "category": "V051200",
+                        "name": "Кабели питания",
+                        "children": []
+                    },
+                    {
+                        "category": "V051201",
+                        "name": "Аудиокабели",
+                        "children": []
+                    },
+                    {
+                        "category": "V051202",
+                        "name": "Видеокабели",
+                        "children": []
+                    },
+                    {
+                        "category": "V051203",
+                        "name": "Кабели для мобильных устройств",
+                        "children": []
+                    },
+                    {
+                        "category": "V051204",
+                        "name": "Переходники",
+                        "children": []
+                    },
+                    {
+                        "category": "V051205",
+                        "name": "Кард-ридеры",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "category": "V0518",
+                "name": "Переключатели",
+                "children": []
+            },
+            {
+                "category": "V0514",
+                "name": "USB-концентраторы",
+                "children": []
+            },
+            {
+                "category": "V0515",
+                "name": "Носители информации",
+                "children": [
+                    {
+                        "category": "V051500",
+                        "name": "USB-накопители",
+                        "children": []
+                    },
+                    {
+                        "category": "V051501",
+                        "name": "Карты памяти",
+                        "children": []
+                    },
+                    {
+                        "category": "V051502",
+                        "name": "Внешние HDD и SSD",
+                        "children": []
+                    },
+                    {
+                        "category": "V051504",
+                        "name": "Кассеты для ленточных накопителей",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "category": "V0513",
+                "name": "Прочие периферийные устройства",
+                "children": []
+            }
+        ]
+    },
+    {
+        "category": "V06",
+        "name": "Расходные материалы",
+        "children": [
+            {
+                "category": "V0600",
+                "name": "Картриджи, тонеры, барабаны",
+                "children": [
+                    {
+                        "category": "V060000",
+                        "name": "Матричные картриджи",
+                        "children": []
+                    },
+                    {
+                        "category": "V060001",
+                        "name": "Струйные картриджи",
+                        "children": []
+                    },
+                    {
+                        "category": "V060002",
+                        "name": "Тонер-картриджи (лазерные)",
+                        "children": []
+                    },
+                    {
+                        "category": "V060003",
+                        "name": "Тонер",
+                        "children": []
+                    },
+                    {
+                        "category": "V060004",
+                        "name": "Чернила",
+                        "children": []
+                    },
+                    {
+                        "category": "V060005",
+                        "name": "Барабаны",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "category": "V0601",
+                "name": "Бумага, пленка и пр. материалы для печати",
+                "children": [
+                    {
+                        "category": "V060101",
+                        "name": "Бумага для цветной печати",
+                        "children": []
+                    },
+                    {
+                        "category": "V060102",
+                        "name": "Рулонные материалы",
+                        "children": []
+                    },
+                    {
+                        "category": "V060103",
+                        "name": "Специальные материалы для печати",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "category": "V0603",
+                "name": "Элементы питания",
+                "children": [
+                    {
+                        "category": "V060300",
+                        "name": "Батарейки",
+                        "children": []
+                    },
+                    {
+                        "category": "V060301",
+                        "name": "Аккумуляторы",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "category": "V0604",
+                "name": "Плёнки, пружины и другие материалы для постпечатного оборудования",
+                "children": [
+                    {
+                        "category": "V060400",
+                        "name": "Для переплётчиков",
+                        "children": []
+                    },
+                    {
+                        "category": "V060401",
+                        "name": "Для ламинаторов",
+                        "children": []
+                    },
+                    {
+                        "category": "V060402",
+                        "name": "Прочее",
+                        "children": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "category": "V07",
+        "name": "Бытовая техника и электроника",
+        "children": [
+            {
+                "category": "V0700",
+                "name": "ТВ, аудио, видео",
+                "children": [
+                    {
+                        "category": "V070000",
+                        "name": "Телевизоры",
+                        "children": []
+                    },
+                    {
+                        "category": "V070002",
+                        "name": "Медиаплееры",
+                        "children": []
+                    },
+                    {
+                        "category": "V070004",
+                        "name": "Кронштейны",
+                        "children": []
+                    },
+                    {
+                        "category": "V070005",
+                        "name": "Телевизионные антенны",
+                        "children": []
+                    },
+                    {
+                        "category": "V070006",
+                        "name": "Пульты",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "category": "V0701",
+                "name": "Крупная бытовая техника",
+                "children": [
+                    {
+                        "category": "V070100",
+                        "name": "Плиты",
+                        "children": []
+                    },
+                    {
+                        "category": "V070101",
+                        "name": "Холодильники",
+                        "children": []
+                    },
+                    {
+                        "category": "V070102",
+                        "name": "Стиральные машины",
+                        "children": []
+                    },
+                    {
+                        "category": "V070103",
+                        "name": "Сушильные автоматы",
+                        "children": []
+                    },
+                    {
+                        "category": "V070104",
+                        "name": "Посудомоечные машины",
+                        "children": []
+                    },
+                    {
+                        "category": "V070105",
+                        "name": "Морозильные камеры",
+                        "children": []
+                    },
+                    {
+                        "category": "V070106",
+                        "name": "Морозильные лари",
+                        "children": []
+                    },
+                    {
+                        "category": "V070107",
+                        "name": "Винные шкафы",
+                        "children": []
+                    },
+                    {
+                        "category": "V070108",
+                        "name": "Вытяжки",
+                        "children": []
+                    },
+                    {
+                        "category": "V070109",
+                        "name": "Водонагреватели",
+                        "children": []
+                    },
+                    {
+                        "category": "V070150",
+                        "name": "Аксессуары для крупной бытовой техники",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "category": "V0702",
+                "name": "Встраиваемая техника",
+                "children": [
+                    {
+                        "category": "V070200",
+                        "name": "Встраиваемые варочные панели",
+                        "children": []
+                    },
+                    {
+                        "category": "V070201",
+                        "name": "Встраиваемые духовые шкафы",
+                        "children": []
+                    },
+                    {
+                        "category": "V070202",
+                        "name": "Встраиваемые посудомоечные машины",
+                        "children": []
+                    },
+                    {
+                        "category": "V070203",
+                        "name": "Встраиваемые холодильники",
+                        "children": []
+                    },
+                    {
+                        "category": "V070204",
+                        "name": "Встраиваемые морозильные камеры",
+                        "children": []
+                    },
+                    {
+                        "category": "V070205",
+                        "name": "Встраиваемые вытяжки",
+                        "children": []
+                    },
+                    {
+                        "category": "V070206",
+                        "name": "Встраиваемые микроволновые печи",
+                        "children": []
+                    },
+                    {
+                        "category": "V070207",
+                        "name": "Встраиваемые стиральные машины",
+                        "children": []
+                    },
+                    {
+                        "category": "V070208",
+                        "name": "Встраиваемые кофемашины",
+                        "children": []
+                    },
+                    {
+                        "category": "V070209",
+                        "name": "Прочая встраиваемая техника",
+                        "children": []
+                    },
+                    {
+                        "category": "V070250",
+                        "name": "Аксессуары для встраиваемой техники",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "category": "V0703",
+                "name": "Кухонная техника и оборудование",
+                "children": [
+                    {
+                        "category": "V070300",
+                        "name": "Блендеры",
+                        "children": []
+                    },
+                    {
+                        "category": "V070302",
+                        "name": "Весы кухонные",
+                        "children": []
+                    },
+                    {
+                        "category": "V070303",
+                        "name": "Гриль",
+                        "children": []
+                    },
+                    {
+                        "category": "V070304",
+                        "name": "Измельчители",
+                        "children": []
+                    },
+                    {
+                        "category": "V070306",
+                        "name": "Кофеварки и кофемашины",
+                        "children": []
+                    },
+                    {
+                        "category": "V070307",
+                        "name": "Товары для приготовления кофе",
+                        "children": []
+                    },
+                    {
+                        "category": "V070308",
+                        "name": "Кухонные комбайны",
+                        "children": []
+                    },
+                    {
+                        "category": "V070309",
+                        "name": "Ломтерезки",
+                        "children": []
+                    },
+                    {
+                        "category": "V070310",
+                        "name": "Микроволновые печи",
+                        "children": []
+                    },
+                    {
+                        "category": "V070311",
+                        "name": "Миксеры",
+                        "children": []
+                    },
+                    {
+                        "category": "V070312",
+                        "name": "Мультиварки",
+                        "children": []
+                    },
+                    {
+                        "category": "V070313",
+                        "name": "Мясорубки",
+                        "children": []
+                    },
+                    {
+                        "category": "V070314",
+                        "name": "Печи, Грили",
+                        "children": []
+                    },
+                    {
+                        "category": "V070315",
+                        "name": "Ростеры, бутербродницы",
+                        "children": []
+                    },
+                    {
+                        "category": "V070316",
+                        "name": "Соковыжималки",
+                        "children": []
+                    },
+                    {
+                        "category": "V070318",
+                        "name": "Хлебопечи",
+                        "children": []
+                    },
+                    {
+                        "category": "V070319",
+                        "name": "Электрические чайники",
+                        "children": []
+                    },
+                    {
+                        "category": "V070321",
+                        "name": "Тостеры",
+                        "children": []
+                    },
+                    {
+                        "category": "V070350",
+                        "name": "Прочие кухонные принадлежности и аксессуары",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "category": "V0704",
+                "name": "Бытовые приборы",
+                "children": [
+                    {
+                        "category": "V070400",
+                        "name": "Пылесосы",
+                        "children": []
+                    },
+                    {
+                        "category": "V070410",
+                        "name": "Роботы-пылесосы",
+                        "children": []
+                    },
+                    {
+                        "category": "V070404",
+                        "name": "Насадки для пылесосов",
+                        "children": []
+                    },
+                    {
+                        "category": "V070403",
+                        "name": "Пылесборники",
+                        "children": []
+                    },
+                    {
+                        "category": "V070401",
+                        "name": "Утюги",
+                        "children": []
+                    },
+                    {
+                        "category": "V070405",
+                        "name": "Парогенераторы и гладильные системы",
+                        "children": []
+                    },
+                    {
+                        "category": "V070407",
+                        "name": "Отпариватели",
+                        "children": []
+                    },
+                    {
+                        "category": "V070406",
+                        "name": "Аксессуары для гладильных приборов",
+                        "children": []
+                    },
+                    {
+                        "category": "V070408",
+                        "name": "Климатическая техника",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "category": "V0705",
+                "name": "Красота и здоровье",
+                "children": [
+                    {
+                        "category": "V070501",
+                        "name": "Электробритвы",
+                        "children": []
+                    },
+                    {
+                        "category": "V070502",
+                        "name": "Машинки для стрижки",
+                        "children": []
+                    },
+                    {
+                        "category": "V070503",
+                        "name": "Эпиляторы",
+                        "children": []
+                    },
+                    {
+                        "category": "V070505",
+                        "name": "Приборы для укладки",
+                        "children": []
+                    },
+                    {
+                        "category": "V070506",
+                        "name": "Весы",
+                        "children": []
+                    },
+                    {
+                        "category": "V070507",
+                        "name": "Электрические зубные щетки",
+                        "children": []
+                    },
+                    {
+                        "category": "V070550",
+                        "name": "Аксессуары к приборам для красоты и здоровья",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "category": "V0708",
+                "name": "Детские товары",
+                "children": [
+                    {
+                        "category": "V070800",
+                        "name": "Соски",
+                        "children": []
+                    },
+                    {
+                        "category": "V070801",
+                        "name": "Принадлежности для кормления",
+                        "children": []
+                    },
+                    {
+                        "category": "V070803",
+                        "name": "Бутылочки",
+                        "children": []
+                    },
+                    {
+                        "category": "V070804",
+                        "name": "Чашки",
+                        "children": []
+                    },
+                    {
+                        "category": "V070802",
+                        "name": "Прочее",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "category": "V0706",
+                "name": "Посуда",
+                "children": [
+                    {
+                        "category": "V070600",
+                        "name": "Наборы посуды",
+                        "children": []
+                    },
+                    {
+                        "category": "V070601",
+                        "name": "Сковороды",
+                        "children": []
+                    },
+                    {
+                        "category": "V070602",
+                        "name": "Кастрюли",
+                        "children": []
+                    },
+                    {
+                        "category": "V070603",
+                        "name": "Крышки",
+                        "children": []
+                    },
+                    {
+                        "category": "V070604",
+                        "name": "Формы для выпечки",
+                        "children": []
+                    },
+                    {
+                        "category": "V070605",
+                        "name": "Чайники и френч-прессы",
+                        "children": []
+                    },
+                    {
+                        "category": "V070606",
+                        "name": "Термосы",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "category": "V0707",
+                "name": "Мойки и смесители",
+                "children": [
+                    {
+                        "category": "V070700",
+                        "name": "Мойки",
+                        "children": []
+                    },
+                    {
+                        "category": "V070701",
+                        "name": "Смесители",
+                        "children": []
+                    },
+                    {
+                        "category": "V070702",
+                        "name": "Аксессуары",
+                        "children": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "category": "V08",
+        "name": "Активный отдых, развлечения",
+        "children": [
+            {
+                "category": "V0800",
+                "name": "Детские конструкторы",
+                "children": []
+            },
+            {
+                "category": "V0802",
+                "name": "Радиоуправляемая техника",
+                "children": []
+            },
+            {
+                "category": "V0803",
+                "name": "Экшн камеры",
+                "children": []
+            },
+            {
+                "category": "V0801",
+                "name": "Гироскутеры и электросамокаты",
+                "children": []
+            },
+            {
+                "category": "V0850",
+                "name": "Аксессуары для электротранспорта",
+                "children": []
+            }
+        ]
+    },
+    {
+        "category": "V09",
+        "name": "Мебель",
+        "children": [
+            {
+                "category": "V0900",
+                "name": "Компьютерная мебель",
+                "children": []
+            },
+            {
+                "category": "V0901",
+                "name": "Техническая и специализированная мебель",
+                "children": []
+            }
+        ]
+    },
+    {
+        "category": "V11",
+        "name": "Серверы и СХД",
+        "children": [
+            {
+                "category": "V1100",
+                "name": "Серверы в сборе",
+                "children": []
+            },
+            {
+                "category": "V1101",
+                "name": "Комплектующие для серверов",
+                "children": [
+                    {
+                        "category": "V110100",
+                        "name": "Серверные платформы",
+                        "children": []
+                    },
+                    {
+                        "category": "V110101",
+                        "name": "Серверные корпуса",
+                        "children": []
+                    },
+                    {
+                        "category": "V110102",
+                        "name": "Серверные материнские платы",
+                        "children": []
+                    },
+                    {
+                        "category": "V110103",
+                        "name": "Серверные процессоры",
+                        "children": []
+                    },
+                    {
+                        "category": "V110104",
+                        "name": "Серверная оперативная память",
+                        "children": []
+                    },
+                    {
+                        "category": "V110106",
+                        "name": "Серверные твердотельные накопители",
+                        "children": []
+                    },
+                    {
+                        "category": "V110112",
+                        "name": "Серверные жёсткие диски",
+                        "children": []
+                    },
+                    {
+                        "category": "V110107",
+                        "name": "Серверные контроллеры",
+                        "children": []
+                    },
+                    {
+                        "category": "V110108",
+                        "name": "Серверные блоки питания",
+                        "children": []
+                    },
+                    {
+                        "category": "V110109",
+                        "name": "Серверные кабели",
+                        "children": []
+                    },
+                    {
+                        "category": "V110110",
+                        "name": "Серверное ПО",
+                        "children": []
+                    },
+                    {
+                        "category": "V110111",
+                        "name": "Ускорители и сопроцессоры",
+                        "children": []
+                    },
+                    {
+                        "category": "V110150",
+                        "name": "Прочие комплектующие для серверов",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "category": "V1102",
+                "name": "Системы хранения данных",
+                "children": [
+                    {
+                        "category": "V110200",
+                        "name": "Ленточные системы хранения",
+                        "children": []
+                    },
+                    {
+                        "category": "V110201",
+                        "name": "Дисковые системы хранения данных",
+                        "children": []
+                    },
+                    {
+                        "category": "V110203",
+                        "name": "Сетевые системы хранения (NAS)",
+                        "children": []
+                    },
+                    {
+                        "category": "V110204",
+                        "name": "Внутренние опции для СХД",
+                        "children": []
+                    },
+                    {
+                        "category": "V110205",
+                        "name": "Внешние опции для СХД",
+                        "children": []
+                    },
+                    {
+                        "category": "V110206",
+                        "name": "Сеть хранения данных SAN",
+                        "children": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "category": "V12",
+        "name": "Сетевое оборудование",
+        "children": [
+            {
+                "category": "V1200",
+                "name": "Активное оборудование для домашних сетей",
+                "children": [
+                    {
+                        "category": "V120000",
+                        "name": "Маршрутизаторы SOHO",
+                        "children": []
+                    },
+                    {
+                        "category": "V120001",
+                        "name": "Точки доступа SOHO и расширители беспроводных сетей",
+                        "children": []
+                    },
+                    {
+                        "category": "V120003",
+                        "name": "Коммутаторы SOHO",
+                        "children": []
+                    },
+                    {
+                        "category": "V120004",
+                        "name": "Wi-Fi Mesh-системы",
+                        "children": []
+                    },
+                    {
+                        "category": "V120005",
+                        "name": "PoE-оборудование",
+                        "children": []
+                    },
+                    {
+                        "category": "V120006",
+                        "name": "Powerline-устройства",
+                        "children": []
+                    },
+                    {
+                        "category": "V120008",
+                        "name": "Сетевые адаптеры",
+                        "children": []
+                    },
+                    {
+                        "category": "V120010",
+                        "name": "Принт-серверы",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "category": "V1201",
+                "name": "Активное оборудование для корпоративных сетей",
+                "children": [
+                    {
+                        "category": "V120100",
+                        "name": "Коммутаторы",
+                        "children": []
+                    },
+                    {
+                        "category": "V120101",
+                        "name": "Шасси коммутаторов, модули и опции",
+                        "children": []
+                    },
+                    {
+                        "category": "V120102",
+                        "name": "Маршрутизаторы",
+                        "children": []
+                    },
+                    {
+                        "category": "V120103",
+                        "name": "Шасси маршрутизаторов, модули и опции",
+                        "children": []
+                    },
+                    {
+                        "category": "V120104",
+                        "name": "Медиаконверторы",
+                        "children": []
+                    },
+                    {
+                        "category": "V120105",
+                        "name": "Шасси медиаконверторов, модули и опции",
+                        "children": []
+                    },
+                    {
+                        "category": "V120106",
+                        "name": "Межсетевые экраны/IPS",
+                        "children": []
+                    },
+                    {
+                        "category": "V120107",
+                        "name": "Трансиверы",
+                        "children": []
+                    },
+                    {
+                        "category": "V120108",
+                        "name": "Wi-Fi точки доступа корпоративные",
+                        "children": []
+                    },
+                    {
+                        "category": "V120109",
+                        "name": "Wi-Fi контроллеры",
+                        "children": []
+                    },
+                    {
+                        "category": "V120110",
+                        "name": "Радиомосты и станции",
+                        "children": []
+                    },
+                    {
+                        "category": "V120111",
+                        "name": "Антенны",
+                        "children": []
+                    },
+                    {
+                        "category": "V120112",
+                        "name": "Модемы",
+                        "children": []
+                    },
+                    {
+                        "category": "V120113",
+                        "name": "Управление сетями, сетевое ПО, подписки",
+                        "children": []
+                    },
+                    {
+                        "category": "V120114",
+                        "name": "Оборудование для оптических сетей",
+                        "children": []
+                    },
+                    {
+                        "category": "V120115",
+                        "name": "Средства защиты информации",
+                        "children": []
+                    },
+                    {
+                        "category": "V120150",
+                        "name": "Прочие опции и аксессуары",
+                        "children": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "category": "V13",
+        "name": "Инженерная инфраструктура",
+        "children": [
+            {
+                "category": "V1300",
+                "name": "Волоконно-оптические СКС",
+                "children": [
+                    {
+                        "category": "V130000",
+                        "name": "Волоконно-оптические кабели",
+                        "children": []
+                    },
+                    {
+                        "category": "V130001",
+                        "name": "Патч-панели, полки и боксы для ВО СКС",
+                        "children": []
+                    },
+                    {
+                        "category": "V130002",
+                        "name": "Волоконно-оптические разъемы, пигтейлы и адаптеры",
+                        "children": []
+                    },
+                    {
+                        "category": "V130003",
+                        "name": "Волоконно-оптические патч-корды",
+                        "children": []
+                    },
+                    {
+                        "category": "V130050",
+                        "name": "Комплектующие и инструменты для ВО СКС",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "category": "V1301",
+                "name": "Медножильные СКС",
+                "children": [
+                    {
+                        "category": "V130100",
+                        "name": "Медножильные кабели для СКС",
+                        "children": []
+                    },
+                    {
+                        "category": "V130101",
+                        "name": "Патч-панели для медножильных СКС",
+                        "children": []
+                    },
+                    {
+                        "category": "V130102",
+                        "name": "Разъемы для медножильных СКС",
+                        "children": []
+                    },
+                    {
+                        "category": "V130103",
+                        "name": "Патч-корды для медножильных СКС",
+                        "children": []
+                    },
+                    {
+                        "category": "V130150",
+                        "name": "Комплектующие и инструменты для медножильных СКС",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "category": "V1302",
+                "name": "Телекоммуникационные и серверные шкафы",
+                "children": [
+                    {
+                        "category": "V130200",
+                        "name": "Настенные шкафы",
+                        "children": []
+                    },
+                    {
+                        "category": "V130201",
+                        "name": "Напольные шкафы",
+                        "children": []
+                    },
+                    {
+                        "category": "V130202",
+                        "name": "Специализированные шкафы",
+                        "children": []
+                    },
+                    {
+                        "category": "V130203",
+                        "name": "Открытые стойки",
+                        "children": []
+                    },
+                    {
+                        "category": "V130204",
+                        "name": "Мониторинг и контроль доступа для шкафов",
+                        "children": []
+                    },
+                    {
+                        "category": "V130250",
+                        "name": "Комплектующие для шкафов и открытых стоек",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "category": "V1303",
+                "name": "Электрооборудование",
+                "children": [
+                    {
+                        "category": "V130300",
+                        "name": "Защитно-коммутационные устройства",
+                        "children": []
+                    },
+                    {
+                        "category": "V130301",
+                        "name": "Шкафы электрические",
+                        "children": []
+                    },
+                    {
+                        "category": "V130302",
+                        "name": "Пуско-регулирующая аппаратура",
+                        "children": []
+                    },
+                    {
+                        "category": "V130303",
+                        "name": "Измерительная аппаратура",
+                        "children": []
+                    },
+                    {
+                        "category": "V130304",
+                        "name": "Контроллеры для электрооборудования",
+                        "children": []
+                    },
+                    {
+                        "category": "V130305",
+                        "name": "Устройства компенсации реактивной мощности (УКРМ)",
+                        "children": []
+                    },
+                    {
+                        "category": "V130307",
+                        "name": "Силовые трансформаторы",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "category": "V1304",
+                "name": "Электроустановочные изделия",
+                "children": [
+                    {
+                        "category": "V130400",
+                        "name": "Изделия для скрытого монтажа",
+                        "children": []
+                    },
+                    {
+                        "category": "V130401",
+                        "name": "Изделия для накладного монтажа",
+                        "children": []
+                    },
+                    {
+                        "category": "V130450",
+                        "name": "Аксессуары для электороустановочных изделий",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "category": "V1305",
+                "name": "Светотехника",
+                "children": []
+            },
+            {
+                "category": "V1306",
+                "name": "Кабеленесущие системы",
+                "children": [
+                    {
+                        "category": "V130600",
+                        "name": "Металлические лотки и короба",
+                        "children": []
+                    },
+                    {
+                        "category": "V130601",
+                        "name": "Пластиковые короба и плинтусы",
+                        "children": []
+                    },
+                    {
+                        "category": "V130602",
+                        "name": "Гладкие и гофро трубы",
+                        "children": []
+                    },
+                    {
+                        "category": "V130604",
+                        "name": "Напольные лючки",
+                        "children": []
+                    },
+                    {
+                        "category": "V130650",
+                        "name": "Аксессуары для кабеленесущих систем",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "category": "V1307",
+                "name": "Оборудование промышленной автоматизации",
+                "children": []
+            }
+        ]
+    },
+    {
+        "category": "V16",
+        "name": "Средства контроля и безопасности",
+        "children": [
+            {
+                "category": "V1600",
+                "name": "Системы видеонаблюдения (СВН)",
+                "children": [
+                    {
+                        "category": "V160000",
+                        "name": "Камеры СВН",
+                        "children": []
+                    },
+                    {
+                        "category": "V160001",
+                        "name": "Видеорегистраторы СВН",
+                        "children": []
+                    },
+                    {
+                        "category": "V160003",
+                        "name": "Коммутаторы СВН",
+                        "children": []
+                    },
+                    {
+                        "category": "V160004",
+                        "name": "Системы отображения для СВН",
+                        "children": []
+                    },
+                    {
+                        "category": "V160005",
+                        "name": "Аксессуары для СВН",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "category": "V1602",
+                "name": "Пожарная сигнализация (ПС)",
+                "children": [
+                    {
+                        "category": "V160201",
+                        "name": "Извещатель пожарный",
+                        "children": []
+                    },
+                    {
+                        "category": "V160250",
+                        "name": "Прочее и аксессуары для пожарной сигнализации",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "category": "V1605",
+                "name": "Системы контроля и управления доступом (СКУД IP)",
+                "children": []
+            },
+            {
+                "category": "V1606",
+                "name": "Умный дом",
+                "children": [
+                    {
+                        "category": "V160601",
+                        "name": "Управляющие устройства для Умного дома",
+                        "children": []
+                    },
+                    {
+                        "category": "V160650",
+                        "name": "Прочие устройства для Умного дома",
+                        "children": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "category": "V17",
+        "name": "Телефония и Unified Communications",
+        "children": [
+            {
+                "category": "V1708",
+                "name": "Гарнитуры для офиса и контакт-центра",
+                "children": []
+            },
+            {
+                "category": "V1709",
+                "name": "Спикерфоны и USB-трубки",
+                "children": []
+            },
+            {
+                "category": "V1700",
+                "name": "Базовые блоки UC",
+                "children": []
+            },
+            {
+                "category": "V1701",
+                "name": "Компоненты UC",
+                "children": []
+            },
+            {
+                "category": "V1702",
+                "name": "Абонентские устройства",
+                "children": []
+            },
+            {
+                "category": "V1703",
+                "name": "Кроссовое оборудование и кабели UC",
+                "children": []
+            },
+            {
+                "category": "V1704",
+                "name": "Системы расширения функционала UC",
+                "children": []
+            },
+            {
+                "category": "V1705",
+                "name": "Радиостанции",
+                "children": []
+            },
+            {
+                "category": "V1706",
+                "name": "Видеоконференцсвязь",
+                "children": []
+            },
+            {
+                "category": "V1707",
+                "name": "Оборудование для конгресс-систем",
+                "children": []
+            }
+        ]
+    },
+    {
+        "category": "V30",
+        "name": "Программное обеспечение",
+        "children": [
+            {
+                "category": "V3000",
+                "name": "Операционные системы",
+                "children": []
+            },
+            {
+                "category": "V3001",
+                "name": "Программное обеспечение для информационной безопасности",
+                "children": []
+            },
+            {
+                "category": "V3002",
+                "name": "Специализированное программное обеспечение",
+                "children": []
+            },
+            {
+                "category": "V3050",
+                "name": "Прочее программное обеспечение",
+                "children": []
+            }
+        ]
+    },
+    {
+        "category": "V31",
+        "name": "Сертификаты на сервисную поддержку",
+        "children": [
+            {
+                "category": "V3104",
+                "name": "Сертификаты на сервисную поддержку для сетевого оборудования",
+                "children": []
+            }
+        ]
+    },
+    {
+        "category": "V35",
+        "name": "Рекламные материалы",
+        "children": []
+    },
+    {
+        "category": "V60",
+        "name": "Категория для PIM1",
+        "children": []
+    },
+    {
+        "category": "V61",
+        "name": "Папка для Даши тест",
+        "children": [
+            {
+                "category": "V6100",
+                "name": "Категория для Даши тест",
+                "children": []
+            }
+        ]
+    }
+]

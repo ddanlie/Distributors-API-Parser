@@ -1,0 +1,51 @@
+
+server {
+    listen 80;
+    server_name apiscrapper.itbsgroup.ru;
+    return 301 https://itbs/$request_uri;
+}
+
+
+server {
+    listen 0.0.0.0:443 ssl;
+    server_name apiscrapper.itbsgroup.ru;
+    ssl_certificate_key /etc/nginx/sites-available/9268951.key;
+    ssl_trusted_certificate /etc/nginx/sites-available/fullchain.pem;
+    ssl_certificate /etc/nginx/sites-available/__itbsgroup_ru.crt;
+
+#    location / {
+#        proxy_pass http://127.0.0.1:8000;
+#        proxy_set_header Host itbs;
+#        proxy_set_header X-Real-IP 95.140.147.104;
+#    }
+
+
+
+    location /images/ {
+        alias /home/react-fastapi-test-app/frontend/dist/images/;
+    }
+
+
+    location /app/ {
+        # alias has to be full path
+        alias /home/react-fastapi-test-app/frontend/dist/;
+        index index.html;
+        try_files $uri @react_fallback;
+    }
+
+    location @react_fallback {
+        proxy_pass http://127.0.0.1:8000;
+        proxy_set_header Host $host;
+        proxy_set_header X-Real-IP $remote_addr;
+        proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
+    }
+
+	# Proxy API calls to FastAPI
+    location /api/ {
+        proxy_pass http://127.0.0.1:8000;
+        proxy_set_header Host $host;
+        proxy_set_header X-Real-IP $remote_addr;
+        proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
+    }
+
+}

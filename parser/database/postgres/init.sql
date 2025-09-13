@@ -1,0 +1,3 @@
+-- define users, roles, and permissions
+-- using itemdata.itbsmap manually fill general_data_fields and general_data_fields_map tables
+-- *tables should already exist 
